@@ -1,0 +1,3551 @@
+{
+  "file": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Cyberpunk 2077\\r6\\cache\\tweakdb_ep1.bin",
+  "header": [
+    196205383,
+    8,
+    4,
+    1844333166,
+    32,
+    46570388,
+    49133424,
+    50296392
+  ],
+  "pools": [
+    {
+      "type": "array:Int32",
+      "values": 4909,
+      "keys": 19275
+    },
+    {
+      "type": "array:CName",
+      "values": 11495,
+      "keys": 105654
+    },
+    {
+      "type": "array:Float",
+      "values": 1503,
+      "keys": 10595
+    },
+    {
+      "type": "array:Bool",
+      "values": 58,
+      "keys": 11182
+    },
+    {
+      "type": "array:TweakDBID",
+      "values": 64019,
+      "keys": 696915
+    },
+    {
+      "type": "CName",
+      "values": 20361,
+      "keys": 411869
+    },
+    {
+      "type": "TweakDBID",
+      "values": 54002,
+      "keys": 870250
+    },
+    {
+      "type": "Int32",
+      "values": 212,
+      "keys": 80566
+    },
+    {
+      "type": "Float",
+      "values": 32966,
+      "keys": 350310
+    },
+    {
+      "type": "Bool",
+      "values": 2,
+      "keys": 556892
+    }
+  ],
+  "records": [
+    {
+      "name": "AttachmentSlots.KiroshiOpticsSlot1",
+      "exists": true,
+      "flats": {
+        "previewEffectName": null,
+        "previewEffectTag": null,
+        "evolution": null,
+        "statModifiers": null,
+        "statModifierGroups": null,
+        "OnEquip": null,
+        "OnAttach": null,
+        "tags": null
+      }
+    },
+    {
+      "name": "AttachmentSlots.KiroshiOpticsSlot2",
+      "exists": true,
+      "flats": {
+        "previewEffectName": null,
+        "previewEffectTag": null,
+        "evolution": null,
+        "statModifiers": null,
+        "statModifierGroups": null,
+        "OnEquip": null,
+        "OnAttach": null,
+        "tags": null
+      }
+    },
+    {
+      "name": "AttachmentSlots.KiroshiOpticsSlot3",
+      "exists": true,
+      "flats": {
+        "previewEffectName": null,
+        "previewEffectTag": null,
+        "evolution": null,
+        "statModifiers": null,
+        "statModifierGroups": null,
+        "OnEquip": null,
+        "OnAttach": null,
+        "tags": null
+      }
+    },
+    {
+      "name": "Items.AdvancedKiroshiOptics_Tutorial_CommonPlus",
+      "exists": true,
+      "flats": {
+        "previewEffectName": null,
+        "previewEffectTag": null,
+        "evolution": null,
+        "statModifiers": {
+          "type": "array:TweakDBID",
+          "value": [
+            "0x160e3e0a6a",
+            "0x23c3e1dc00",
+            "0x2d35ff9b58"
+          ]
+        },
+        "statModifierGroups": {
+          "type": "array:TweakDBID",
+          "value": []
+        },
+        "OnEquip": {
+          "type": "array:TweakDBID",
+          "value": [
+            "0x235ae88dba",
+            "0x3311ded39b",
+            "0x3368026b3f"
+          ]
+        },
+        "OnAttach": {
+          "type": "array:TweakDBID",
+          "value": []
+        },
+        "tags": {
+          "type": "array:CName",
+          "value": [
+            "Cyberware",
+            "HideInBackpackUI",
+            "MustBeWearableToPurchase"
+          ]
+        }
+      }
+    },
+    {
+      "name": "Items.AdvancedKiroshiOptics_Tutorial_Epic",
+      "exists": true,
+      "flats": {
+        "previewEffectName": null,
+        "previewEffectTag": null,
+        "evolution": null,
+        "statModifiers": {
+          "type": "array:TweakDBID",
+          "value": [
+            "0x160e3e0a6a",
+            "0x23c3e1dc00",
+            "0x2d35ff9b58"
+          ]
+        },
+        "statModifierGroups": {
+          "type": "array:TweakDBID",
+          "value": []
+        },
+        "OnEquip": {
+          "type": "array:TweakDBID",
+          "value": [
+            "0x235ae88dba",
+            "0x2d6d890177",
+            "0x2d1455b9d3",
+            "0x21c6f1722d"
+          ]
+        },
+        "OnAttach": {
+          "type": "array:TweakDBID",
+          "value": []
+        },
+        "tags": {
+          "type": "array:CName",
+          "value": [
+            "Cyberware",
+            "HideInBackpackUI",
+            "MustBeWearableToPurchase"
+          ]
+        }
+      }
+    },
+    {
+      "name": "Items.AdvancedKiroshiOptics_Tutorial_EpicPlus",
+      "exists": true,
+      "flats": {
+        "previewEffectName": null,
+        "previewEffectTag": null,
+        "evolution": null,
+        "statModifiers": {
+          "type": "array:TweakDBID",
+          "value": [
+            "0x160e3e0a6a",
+            "0x23c3e1dc00",
+            "0x2d35ff9b58"
+          ]
+        },
+        "statModifierGroups": {
+          "type": "array:TweakDBID",
+          "value": []
+        },
+        "OnEquip": {
+          "type": "array:TweakDBID",
+          "value": [
+            "0x235ae88dba",
+            "0x318bcd90f5",
+            "0x31f2112851",
+            "0x21c6f1722d"
+          ]
+        },
+        "OnAttach": {
+          "type": "array:TweakDBID",
+          "value": []
+        },
+        "tags": {
+          "type": "array:CName",
+          "value": [
+            "Cyberware",
+            "HideInBackpackUI",
+            "MustBeWearableToPurchase"
+          ]
+        }
+      }
+    },
+    {
+      "name": "Items.AdvancedKiroshiOptics_Tutorial_Legendary",
+      "exists": true,
+      "flats": {
+        "previewEffectName": null,
+        "previewEffectTag": null,
+        "evolution": null,
+        "statModifiers": {
+          "type": "array:TweakDBID",
+          "value": [
+            "0x160e3e0a6a",
+            "0x23c3e1dc00",
+            "0x2d35ff9b58"
+          ]
+        },
+        "statModifierGroups": {
+          "type": "array:TweakDBID",
+          "value": []
+        },
+        "OnEquip": {
+          "type": "array:TweakDBID",
+          "value": [
+            "0x235ae88dba",
+            "0x327f08a4cd",
+            "0x3206d41c69",
+            "0x21c6f1722d"
+          ]
+        },
+        "OnAttach": {
+          "type": "array:TweakDBID",
+          "value": []
+        },
+        "tags": {
+          "type": "array:CName",
+          "value": [
+            "Cyberware",
+            "HideInBackpackUI",
+            "MustBeWearableToPurchase"
+          ]
+        }
+      }
+    },
+    {
+      "name": "Items.AdvancedKiroshiOptics_Tutorial_LegendaryPlus",
+      "exists": true,
+      "flats": {
+        "previewEffectName": null,
+        "previewEffectTag": null,
+        "evolution": null,
+        "statModifiers": {
+          "type": "array:TweakDBID",
+          "value": [
+            "0x160e3e0a6a",
+            "0x23c3e1dc00",
+            "0x2d35ff9b58"
+          ]
+        },
+        "statModifierGroups": {
+          "type": "array:TweakDBID",
+          "value": []
+        },
+        "OnEquip": {
+          "type": "array:TweakDBID",
+          "value": [
+            "0x235ae88dba",
+            "0x36f79079c2",
+            "0x368e4cc166",
+            "0x21c6f1722d"
+          ]
+        },
+        "OnAttach": {
+          "type": "array:TweakDBID",
+          "value": []
+        },
+        "tags": {
+          "type": "array:CName",
+          "value": [
+            "Cyberware",
+            "HideInBackpackUI",
+            "MustBeWearableToPurchase"
+          ]
+        }
+      }
+    },
+    {
+      "name": "Items.AdvancedKiroshiOptics_Tutorial_LegendaryPlusPlus",
+      "exists": true,
+      "flats": {
+        "previewEffectName": null,
+        "previewEffectTag": null,
+        "evolution": null,
+        "statModifiers": {
+          "type": "array:TweakDBID",
+          "value": [
+            "0x160e3e0a6a",
+            "0x23c3e1dc00",
+            "0x2d35ff9b58"
+          ]
+        },
+        "statModifierGroups": {
+          "type": "array:TweakDBID",
+          "value": []
+        },
+        "OnEquip": {
+          "type": "array:TweakDBID",
+          "value": [
+            "0x235ae88dba",
+            "0x3a7059c4f7",
+            "0x3a09857c53",
+            "0x21c6f1722d"
+          ]
+        },
+        "OnAttach": {
+          "type": "array:TweakDBID",
+          "value": []
+        },
+        "tags": {
+          "type": "array:CName",
+          "value": [
+            "Cyberware",
+            "HideInBackpackUI",
+            "MustBeWearableToPurchase"
+          ]
+        }
+      }
+    },
+    {
+      "name": "Items.AdvancedKiroshiOptics_Tutorial_Rare",
+      "exists": true,
+      "flats": {
+        "previewEffectName": null,
+        "previewEffectTag": null,
+        "evolution": null,
+        "statModifiers": {
+          "type": "array:TweakDBID",
+          "value": [
+            "0x160e3e0a6a",
+            "0x23c3e1dc00",
+            "0x2d35ff9b58"
+          ]
+        },
+        "statModifierGroups": {
+          "type": "array:TweakDBID",
+          "value": []
+        },
+        "OnEquip": {
+          "type": "array:TweakDBID",
+          "value": [
+            "0x235ae88dba",
+            "0x2dd6251d9a",
+            "0x2daff9a53e",
+            "0x21c6f1722d"
+          ]
+        },
+        "OnAttach": {
+          "type": "array:TweakDBID",
+          "value": []
+        },
+        "tags": {
+          "type": "array:CName",
+          "value": [
+            "Cyberware",
+            "HideInBackpackUI",
+            "MustBeWearableToPurchase"
+          ]
+        }
+      }
+    },
+    {
+      "name": "Items.AdvancedKiroshiOptics_Tutorial_RarePlus",
+      "exists": true,
+      "flats": {
+        "previewEffectName": null,
+        "previewEffectTag": null,
+        "evolution": null,
+        "statModifiers": {
+          "type": "array:TweakDBID",
+          "value": [
+            "0x160e3e0a6a",
+            "0x23c3e1dc00",
+            "0x2d35ff9b58"
+          ]
+        },
+        "statModifierGroups": {
+          "type": "array:TweakDBID",
+          "value": []
+        },
+        "OnEquip": {
+          "type": "array:TweakDBID",
+          "value": [
+            "0x235ae88dba",
+            "0x31e4e5cae5",
+            "0x319d397241",
+            "0x21c6f1722d"
+          ]
+        },
+        "OnAttach": {
+          "type": "array:TweakDBID",
+          "value": []
+        },
+        "tags": {
+          "type": "array:CName",
+          "value": [
+            "Cyberware",
+            "HideInBackpackUI",
+            "MustBeWearableToPurchase"
+          ]
+        }
+      }
+    },
+    {
+      "name": "Items.AdvancedKiroshiOptics_Tutorial_Uncommon",
+      "exists": true,
+      "flats": {
+        "previewEffectName": null,
+        "previewEffectTag": null,
+        "evolution": null,
+        "statModifiers": {
+          "type": "array:TweakDBID",
+          "value": [
+            "0x160e3e0a6a",
+            "0x23c3e1dc00",
+            "0x2d35ff9b58"
+          ]
+        },
+        "statModifierGroups": {
+          "type": "array:TweakDBID",
+          "value": []
+        },
+        "OnEquip": {
+          "type": "array:TweakDBID",
+          "value": [
+            "0x235ae88dba",
+            "0x3214bf2b3d",
+            "0x326d639399"
+          ]
+        },
+        "OnAttach": {
+          "type": "array:TweakDBID",
+          "value": []
+        },
+        "tags": {
+          "type": "array:CName",
+          "value": [
+            "Cyberware",
+            "HideInBackpackUI",
+            "MustBeWearableToPurchase"
+          ]
+        }
+      }
+    },
+    {
+      "name": "Items.AdvancedKiroshiOptics_Tutorial_UncommonPlus",
+      "exists": true,
+      "flats": {
+        "previewEffectName": null,
+        "previewEffectTag": null,
+        "evolution": null,
+        "statModifiers": {
+          "type": "array:TweakDBID",
+          "value": [
+            "0x160e3e0a6a",
+            "0x23c3e1dc00",
+            "0x2d35ff9b58"
+          ]
+        },
+        "statModifierGroups": {
+          "type": "array:TweakDBID",
+          "value": []
+        },
+        "OnEquip": {
+          "type": "array:TweakDBID",
+          "value": [
+            "0x235ae88dba",
+            "0x350b5326a8",
+            "0x35728f9e0c"
+          ]
+        },
+        "OnAttach": {
+          "type": "array:TweakDBID",
+          "value": []
+        },
+        "tags": {
+          "type": "array:CName",
+          "value": [
+            "Cyberware",
+            "HideInBackpackUI",
+            "MustBeWearableToPurchase"
+          ]
+        }
+      }
+    },
+    {
+      "name": "Items.AdvancedKiroshiOptics_q001_1",
+      "exists": true,
+      "flats": {
+        "previewEffectName": null,
+        "previewEffectTag": null,
+        "evolution": null,
+        "statModifiers": {
+          "type": "array:TweakDBID",
+          "value": [
+            "0x160e3e0a6a",
+            "0x23c3e1dc00",
+            "0x2ba8af7caf"
+          ]
+        },
+        "statModifierGroups": {
+          "type": "array:TweakDBID",
+          "value": []
+        },
+        "OnEquip": {
+          "type": "array:TweakDBID",
+          "value": [
+            "0x235ae88dba",
+            "0x2d6b59f621",
+            "0x2df250a79b"
+          ]
+        },
+        "OnAttach": {
+          "type": "array:TweakDBID",
+          "value": []
+        },
+        "tags": {
+          "type": "array:CName",
+          "value": [
+            "Cyberware",
+            "HideInBackpackUI",
+            "MustBeWearableToPurchase"
+          ]
+        }
+      }
+    },
+    {
+      "name": "Items.Breakthrough_scope",
+      "exists": true,
+      "flats": {
+        "previewEffectName": null,
+        "previewEffectTag": null,
+        "evolution": null,
+        "statModifiers": {
+          "type": "array:TweakDBID",
+          "value": [
+            "0x1d367527ef",
+            "0x1f20ecf8fc",
+            "0x1f57ebc86a",
+            "0x20d128174f",
+            "0x20a62f27d9",
+            "0x203f267663"
+          ]
+        },
+        "statModifierGroups": {
+          "type": "array:TweakDBID",
+          "value": [
+            "0x26206d06a8"
+          ]
+        },
+        "OnEquip": {
+          "type": "array:TweakDBID",
+          "value": []
+        },
+        "OnAttach": {
+          "type": "array:TweakDBID",
+          "value": []
+        },
+        "tags": {
+          "type": "array:CName",
+          "value": [
+            "itemPart",
+            "WeaponMod",
+            "SniperScope",
+            "AirDropReward",
+            "DummyPart",
+            "HideInUI",
+            "HideAtVendor"
+          ]
+        }
+      }
+    },
+    {
+      "name": "Items.Common_Nekomata_Breakthrough",
+      "exists": true,
+      "flats": {
+        "previewEffectName": {
+          "type": "CName",
+          "value": "weaponPreview"
+        },
+        "previewEffectTag": {
+          "type": "CName",
+          "value": "ricochet"
+        },
+        "evolution": {
+          "type": "TweakDBID",
+          "value": "0x1481d10fe7"
+        },
+        "statModifiers": {
+          "type": "array:TweakDBID",
+          "value": [
+            "0x1998694a3a",
+            "0x19ef6e7aac",
+            "0x1976672b16",
+            "0x1901601b80",
+            "0x199f048e23",
+            "0x19e803beb5",
+            "0x19710aef0f",
+            "0x19060ddf99",
+            "0x1996b2c208",
+            "0x19e1b5f29e",
+            "0x1a2b545e98",
+            "0x1a5c536e0e",
+            "0x1ac55a3fb4",
+            "0x30dd9f742d",
+            "0x1ab25d0f22",
+            "0x1a2c399a81",
+            "0x1a5b3eaa17",
+            "0x1ac237fbad",
+            "0x1ab530cb3b",
+            "0x1a258fd6aa",
+            "0x1a5288e63c",
+            "0x1a00790d5b",
+            "0x1a777e3dcd",
+            "0x1aee776c77",
+            "0x1a99705ce1",
+            "0x1a0714c942",
+            "0x1a7013f9d4",
+            "0x1ae91aa86e",
+            "0x1a9e1d98f8",
+            "0x1a0ea28569",
+            "0x1a79a5b5ff",
+            "0x1a19623c1a",
+            "0x1a6e650c8c",
+            "0x1af76c5d36",
+            "0x1a806b6da0",
+            "0x1a1e0ff803",
+            "0x1a6908c895",
+            "0x1af001992f",
+            "0x1a8706a9b9",
+            "0x1a17b9b428",
+            "0x1a60be84be",
+            "0x1a5623aadd",
+            "0x1a21249a4b",
+            "0x1ab82dcbf1",
+            "0x1acf2afb67",
+            "0x1a514e6ec4",
+            "0x1a26495e52",
+            "0x1abf400fe8",
+            "0x1ac8473f7e",
+            "0x1a58f822ef",
+            "0x1a2fff1279",
+            "0x1a4f389b9c",
+            "0x1a383fab0a",
+            "0x1aa136fab0",
+            "0x1ad631ca26",
+            "0x1a48555f85",
+            "0x1a3f526f13",
+            "0x1aa65b3ea9",
+            "0x1ad15c0e3f",
+            "0x1a41e313ae",
+            "0x1a36e42338",
+            "0x1a6415c85f",
+            "0x1a1312f8c9",
+            "0x1a8a1ba973",
+            "0x1afd1c99e5",
+            "0x1a63780c46",
+            "0x1a147f3cd0",
+            "0x1a8d766d6a",
+            "0x1afa715dfc",
+            "0x1a6ace406d",
+            "0x1a1dc970fb",
+            "0x1a7d0ef91e",
+            "0x1a0a09c988",
+            "0x1a93009832",
+            "0x1ae407a8a4",
+            "0x1a7a633d07",
+            "0x1a0d640d91",
+            "0x1a946d5c2b",
+            "0x1ae36a6cbd",
+            "0x1a73d5712c",
+            "0x1a04d241ba",
+            "0x1afa96e5d1",
+            "0x1a8d91d547",
+            "0x1a149884fd",
+            "0x1a639fb46b",
+            "0x1afdfb21c8",
+            "0x1a8afc115e",
+            "0x1a13f540e4",
+            "0x1a64f27072",
+            "0x1af44d6de3",
+            "0x1a834a5d75",
+            "0x1ae38dd490",
+            "0x1a948ae406",
+            "0x1a0d83b5bc",
+            "0x1a7a84852a",
+            "0x1ae4e01089",
+            "0x1a93e7201f",
+            "0x1a0aee71a5",
+            "0x1a7de94133",
+            "0x1aed565ca2",
+            "0x1a9a516c34",
+            "0x1b0a249009",
+            "0x1b7d23a09f",
+            "0x1be42af125",
+            "0x1b932dc1b3",
+            "0x1b0d495410",
+            "0x1b7a4e6486",
+            "0x1be347353c",
+            "0x1b944005aa",
+            "0x1b04ff183b",
+            "0x1b73f828ad",
+            "0x1b133fa148",
+            "0x1b643891de",
+            "0x1bfd31c064",
+            "0x1b8a36f0f2",
+            "0x1b14526551",
+            "0x1b635555c7",
+            "0x1bfa5c047d",
+            "0x1b8d5b34eb",
+            "0x1b1de4297a",
+            "0x1b6ae319ec",
+            "0x1b3812f28b",
+            "0x1b4f15c21d",
+            "0x1bd61c93a7",
+            "0x1ba11ba331",
+            "0x1b3f7f3692",
+            "0x1b48780604",
+            "0x1bd17157be",
+            "0x1ba6766728",
+            "0x1b36c97ab9",
+            "0x1b41ce4a2f",
+            "0x1b2109c3ca",
+            "0x1b560ef35c",
+            "0x1bcf07a2e6",
+            "0x1bb8009270",
+            "0x1b266407d3",
+            "0x1b51633745",
+            "0x1bc86a66ff",
+            "0x1bbf6d5669",
+            "0x1b2fd24bf8",
+            "0x1b58d57b6e",
+            "0x1b6e48550d",
+            "0x1b194f659b",
+            "0x1b80463421",
+            "0x1bf74104b7",
+            "0x1b69259114",
+            "0x1b1e22a182",
+            "0x1b872bf038",
+            "0x1bf02cc0ae",
+            "0x1b6093dd3f",
+            "0x1b1794eda9",
+            "0x129357ec62"
+          ]
+        },
+        "statModifierGroups": {
+          "type": "array:TweakDBID",
+          "value": [
+            "0x292e0abd90",
+            "0x2387c2eef4",
+            "0x22e88bef45",
+            "0x205eef5300",
+            "0x20a7a3427c",
+            "0x1d3fb09ce6",
+            "0x2f0a86dcc8",
+            "0x205b0ad45e",
+            "0x1c02466032",
+            "0x27530ab63d",
+            "0x22c2d89e65",
+            "0x21d2724fc2",
+            "0x22628d430b",
+            "0x239bddebfc",
+            "0x2b968ff1b0",
+            "0x25929f1422",
+            "0x26af0b8679"
+          ]
+        },
+        "OnEquip": {
+          "type": "array:TweakDBID",
+          "value": []
+        },
+        "OnAttach": {
+          "type": "array:TweakDBID",
+          "value": [
+            "0x1f519296fb",
+            "0x1f12100330",
+            "0x1e29d5970a",
+            "0x183e8f75da"
+          ]
+        },
+        "tags": {
+          "type": "array:CName",
+          "value": [
+            "Weapon",
+            "RangedWeapon",
+            "inventoryDoubleSlot",
+            "Rifle Sniper",
+            "TechWeapon",
+            "Preload",
+            "Weapon",
+            "Nekomata",
+            "IconicWeapon",
+            "CraftableIconic",
+            "Nekomata_Breakthrough"
+          ]
+        }
+      }
+    },
+    {
+      "name": "Items.Craftable_Uncommon_Nekomata",
+      "exists": true,
+      "flats": {
+        "previewEffectName": {
+          "type": "CName",
+          "value": "weaponPreview"
+        },
+        "previewEffectTag": {
+          "type": "CName",
+          "value": "pierce"
+        },
+        "evolution": {
+          "type": "TweakDBID",
+          "value": "0x1481d10fe7"
+        },
+        "statModifiers": {
+          "type": "array:TweakDBID",
+          "value": [
+            "0x1998694a3a",
+            "0x19ef6e7aac",
+            "0x1976672b16",
+            "0x1901601b80",
+            "0x199f048e23",
+            "0x19e803beb5",
+            "0x19710aef0f",
+            "0x19060ddf99",
+            "0x1996b2c208",
+            "0x19e1b5f29e",
+            "0x1a2b545e98",
+            "0x1a5c536e0e",
+            "0x1ac55a3fb4",
+            "0x30dd9f742d",
+            "0x1ab25d0f22",
+            "0x1a2c399a81",
+            "0x1a5b3eaa17",
+            "0x1ac237fbad",
+            "0x1ab530cb3b",
+            "0x1a258fd6aa",
+            "0x1a5288e63c",
+            "0x1a00790d5b",
+            "0x1a777e3dcd",
+            "0x1aee776c77",
+            "0x1a99705ce1",
+            "0x1a0714c942",
+            "0x1a7013f9d4",
+            "0x1ae91aa86e",
+            "0x1a9e1d98f8",
+            "0x1a0ea28569",
+            "0x1a79a5b5ff",
+            "0x1a19623c1a",
+            "0x1a6e650c8c",
+            "0x1af76c5d36",
+            "0x1a806b6da0",
+            "0x1a1e0ff803",
+            "0x1a6908c895",
+            "0x1af001992f",
+            "0x1a8706a9b9",
+            "0x1a17b9b428",
+            "0x1a60be84be",
+            "0x1a5623aadd",
+            "0x1a21249a4b",
+            "0x1ab82dcbf1",
+            "0x1acf2afb67",
+            "0x1a514e6ec4",
+            "0x1a26495e52",
+            "0x1abf400fe8",
+            "0x1ac8473f7e",
+            "0x1a58f822ef",
+            "0x1a2fff1279",
+            "0x1a4f389b9c",
+            "0x1a383fab0a",
+            "0x1aa136fab0",
+            "0x1ad631ca26",
+            "0x1a48555f85",
+            "0x1a3f526f13",
+            "0x1aa65b3ea9",
+            "0x1ad15c0e3f",
+            "0x1a41e313ae",
+            "0x1a36e42338",
+            "0x1a6415c85f",
+            "0x1a1312f8c9",
+            "0x1a8a1ba973",
+            "0x1afd1c99e5",
+            "0x1a63780c46",
+            "0x1a147f3cd0",
+            "0x1a8d766d6a",
+            "0x1afa715dfc",
+            "0x1a6ace406d",
+            "0x1a1dc970fb",
+            "0x1a7d0ef91e",
+            "0x1a0a09c988",
+            "0x1a93009832",
+            "0x1ae407a8a4",
+            "0x1a7a633d07",
+            "0x1a0d640d91",
+            "0x1a946d5c2b",
+            "0x1ae36a6cbd",
+            "0x1a73d5712c",
+            "0x1a04d241ba",
+            "0x1afa96e5d1",
+            "0x1a8d91d547",
+            "0x1a149884fd",
+            "0x1a639fb46b",
+            "0x1afdfb21c8",
+            "0x1a8afc115e",
+            "0x1a13f540e4",
+            "0x1a64f27072",
+            "0x1af44d6de3",
+            "0x1a834a5d75",
+            "0x1ae38dd490",
+            "0x1a948ae406",
+            "0x1a0d83b5bc",
+            "0x1a7a84852a",
+            "0x1ae4e01089",
+            "0x1a93e7201f",
+            "0x1a0aee71a5",
+            "0x1a7de94133",
+            "0x1aed565ca2",
+            "0x1a9a516c34",
+            "0x1b0a249009",
+            "0x1b7d23a09f",
+            "0x1be42af125",
+            "0x1b932dc1b3",
+            "0x1b0d495410",
+            "0x1b7a4e6486",
+            "0x1be347353c",
+            "0x1b944005aa",
+            "0x1b04ff183b",
+            "0x1b73f828ad",
+            "0x1b133fa148",
+            "0x1b643891de",
+            "0x1bfd31c064",
+            "0x1b8a36f0f2",
+            "0x1b14526551",
+            "0x1b635555c7",
+            "0x1bfa5c047d",
+            "0x1b8d5b34eb",
+            "0x1b1de4297a",
+            "0x1b6ae319ec",
+            "0x1b3812f28b",
+            "0x1b4f15c21d",
+            "0x1bd61c93a7",
+            "0x1ba11ba331",
+            "0x1b3f7f3692",
+            "0x1b48780604",
+            "0x1bd17157be",
+            "0x1ba6766728",
+            "0x1b36c97ab9",
+            "0x1b41ce4a2f",
+            "0x1b2109c3ca",
+            "0x1b560ef35c",
+            "0x1bcf07a2e6",
+            "0x1bb8009270",
+            "0x1b266407d3",
+            "0x1b51633745",
+            "0x1bc86a66ff",
+            "0x1bbf6d5669",
+            "0x1b2fd24bf8",
+            "0x1b58d57b6e",
+            "0x1b6e48550d",
+            "0x1b194f659b",
+            "0x1b80463421",
+            "0x1bf74104b7",
+            "0x1b69259114",
+            "0x1b1e22a182",
+            "0x1b872bf038",
+            "0x1bf02cc0ae",
+            "0x1b6093dd3f",
+            "0x1b1794eda9"
+          ]
+        },
+        "statModifierGroups": {
+          "type": "array:TweakDBID",
+          "value": [
+            "0x25929f1422",
+            "0x26af0b8679",
+            "0x1a4c729f54",
+            "0x2365285883",
+            "0x290154c442",
+            "0x2489141b62",
+            "0x24b47432d2",
+            "0x240654eec2",
+            "0x243b34c772",
+            "0x286f37bdce",
+            "0x21d2724fc2",
+            "0x22628d430b",
+            "0x239bddebfc",
+            "0x1c02466032",
+            "0x27530ab63d",
+            "0x22c2d89e65",
+            "0x2b968ff1b0",
+            "0x2387c2eef4",
+            "0x22e88bef45",
+            "0x205eef5300",
+            "0x20a7a3427c",
+            "0x1d3fb09ce6",
+            "0x22030fec07",
+            "0x205b0ad45e"
+          ]
+        },
+        "OnEquip": {
+          "type": "array:TweakDBID",
+          "value": []
+        },
+        "OnAttach": {
+          "type": "array:TweakDBID",
+          "value": [
+            "0x1f519296fb",
+            "0x1f12100330",
+            "0x1e29d5970a",
+            "0x183e8f75da"
+          ]
+        },
+        "tags": {
+          "type": "array:CName",
+          "value": [
+            "Weapon",
+            "RangedWeapon",
+            "inventoryDoubleSlot",
+            "Rifle Sniper",
+            "TechWeapon",
+            "Preload",
+            "Weapon",
+            "Nekomata"
+          ]
+        }
+      }
+    },
+    {
+      "name": "Items.Epic_Nekomata_Breakthrough",
+      "exists": true,
+      "flats": {
+        "previewEffectName": {
+          "type": "CName",
+          "value": "weaponPreview"
+        },
+        "previewEffectTag": {
+          "type": "CName",
+          "value": "ricochet"
+        },
+        "evolution": {
+          "type": "TweakDBID",
+          "value": "0x1481d10fe7"
+        },
+        "statModifiers": {
+          "type": "array:TweakDBID",
+          "value": [
+            "0x1998694a3a",
+            "0x19ef6e7aac",
+            "0x1976672b16",
+            "0x1901601b80",
+            "0x199f048e23",
+            "0x19e803beb5",
+            "0x19710aef0f",
+            "0x19060ddf99",
+            "0x1996b2c208",
+            "0x19e1b5f29e",
+            "0x1a2b545e98",
+            "0x1a5c536e0e",
+            "0x1ac55a3fb4",
+            "0x30dd9f742d",
+            "0x1ab25d0f22",
+            "0x1a2c399a81",
+            "0x1a5b3eaa17",
+            "0x1ac237fbad",
+            "0x1ab530cb3b",
+            "0x1a258fd6aa",
+            "0x1a5288e63c",
+            "0x1a00790d5b",
+            "0x1a777e3dcd",
+            "0x1aee776c77",
+            "0x1a99705ce1",
+            "0x1a0714c942",
+            "0x1a7013f9d4",
+            "0x1ae91aa86e",
+            "0x1a9e1d98f8",
+            "0x1a0ea28569",
+            "0x1a79a5b5ff",
+            "0x1a19623c1a",
+            "0x1a6e650c8c",
+            "0x1af76c5d36",
+            "0x1a806b6da0",
+            "0x1a1e0ff803",
+            "0x1a6908c895",
+            "0x1af001992f",
+            "0x1a8706a9b9",
+            "0x1a17b9b428",
+            "0x1a60be84be",
+            "0x1a5623aadd",
+            "0x1a21249a4b",
+            "0x1ab82dcbf1",
+            "0x1acf2afb67",
+            "0x1a514e6ec4",
+            "0x1a26495e52",
+            "0x1abf400fe8",
+            "0x1ac8473f7e",
+            "0x1a58f822ef",
+            "0x1a2fff1279",
+            "0x1a4f389b9c",
+            "0x1a383fab0a",
+            "0x1aa136fab0",
+            "0x1ad631ca26",
+            "0x1a48555f85",
+            "0x1a3f526f13",
+            "0x1aa65b3ea9",
+            "0x1ad15c0e3f",
+            "0x1a41e313ae",
+            "0x1a36e42338",
+            "0x1a6415c85f",
+            "0x1a1312f8c9",
+            "0x1a8a1ba973",
+            "0x1afd1c99e5",
+            "0x1a63780c46",
+            "0x1a147f3cd0",
+            "0x1a8d766d6a",
+            "0x1afa715dfc",
+            "0x1a6ace406d",
+            "0x1a1dc970fb",
+            "0x1a7d0ef91e",
+            "0x1a0a09c988",
+            "0x1a93009832",
+            "0x1ae407a8a4",
+            "0x1a7a633d07",
+            "0x1a0d640d91",
+            "0x1a946d5c2b",
+            "0x1ae36a6cbd",
+            "0x1a73d5712c",
+            "0x1a04d241ba",
+            "0x1afa96e5d1",
+            "0x1a8d91d547",
+            "0x1a149884fd",
+            "0x1a639fb46b",
+            "0x1afdfb21c8",
+            "0x1a8afc115e",
+            "0x1a13f540e4",
+            "0x1a64f27072",
+            "0x1af44d6de3",
+            "0x1a834a5d75",
+            "0x1ae38dd490",
+            "0x1a948ae406",
+            "0x1a0d83b5bc",
+            "0x1a7a84852a",
+            "0x1ae4e01089",
+            "0x1a93e7201f",
+            "0x1a0aee71a5",
+            "0x1a7de94133",
+            "0x1aed565ca2",
+            "0x1a9a516c34",
+            "0x1b0a249009",
+            "0x1b7d23a09f",
+            "0x1be42af125",
+            "0x1b932dc1b3",
+            "0x1b0d495410",
+            "0x1b7a4e6486",
+            "0x1be347353c",
+            "0x1b944005aa",
+            "0x1b04ff183b",
+            "0x1b73f828ad",
+            "0x1b133fa148",
+            "0x1b643891de",
+            "0x1bfd31c064",
+            "0x1b8a36f0f2",
+            "0x1b14526551",
+            "0x1b635555c7",
+            "0x1bfa5c047d",
+            "0x1b8d5b34eb",
+            "0x1b1de4297a",
+            "0x1b6ae319ec",
+            "0x1b3812f28b",
+            "0x1b4f15c21d",
+            "0x1bd61c93a7",
+            "0x1ba11ba331",
+            "0x1b3f7f3692",
+            "0x1b48780604",
+            "0x1bd17157be",
+            "0x1ba6766728",
+            "0x1b36c97ab9",
+            "0x1b41ce4a2f",
+            "0x1b2109c3ca",
+            "0x1b560ef35c",
+            "0x1bcf07a2e6",
+            "0x1bb8009270",
+            "0x1b266407d3",
+            "0x1b51633745",
+            "0x1bc86a66ff",
+            "0x1bbf6d5669",
+            "0x1b2fd24bf8",
+            "0x1b58d57b6e",
+            "0x1b6e48550d",
+            "0x1b194f659b",
+            "0x1b80463421",
+            "0x1bf74104b7",
+            "0x1b69259114",
+            "0x1b1e22a182",
+            "0x1b872bf038",
+            "0x1bf02cc0ae",
+            "0x1b6093dd3f",
+            "0x1b1794eda9",
+            "0x129357ec62"
+          ]
+        },
+        "statModifierGroups": {
+          "type": "array:TweakDBID",
+          "value": [
+            "0x292e0abd90",
+            "0x2387c2eef4",
+            "0x22e88bef45",
+            "0x205eef5300",
+            "0x20a7a3427c",
+            "0x1d3fb09ce6",
+            "0x2f0a86dcc8",
+            "0x205b0ad45e",
+            "0x1c02466032",
+            "0x27530ab63d",
+            "0x22c2d89e65",
+            "0x21d2724fc2",
+            "0x22628d430b",
+            "0x239bddebfc",
+            "0x2b968ff1b0",
+            "0x25929f1422",
+            "0x26af0b8679"
+          ]
+        },
+        "OnEquip": {
+          "type": "array:TweakDBID",
+          "value": []
+        },
+        "OnAttach": {
+          "type": "array:TweakDBID",
+          "value": [
+            "0x1f519296fb",
+            "0x1f12100330",
+            "0x1e29d5970a",
+            "0x183e8f75da"
+          ]
+        },
+        "tags": {
+          "type": "array:CName",
+          "value": [
+            "Weapon",
+            "RangedWeapon",
+            "inventoryDoubleSlot",
+            "Rifle Sniper",
+            "TechWeapon",
+            "Preload",
+            "Weapon",
+            "Nekomata",
+            "IconicWeapon",
+            "CraftableIconic",
+            "Nekomata_Breakthrough"
+          ]
+        }
+      }
+    },
+    {
+      "name": "Items.KiroshiOpticsFragment1",
+      "exists": true,
+      "flats": {
+        "previewEffectName": null,
+        "previewEffectTag": null,
+        "evolution": null,
+        "statModifiers": {
+          "type": "array:TweakDBID",
+          "value": [
+            "0x24b010383a"
+          ]
+        },
+        "statModifierGroups": {
+          "type": "array:TweakDBID",
+          "value": [
+            "0x1a4c729f54"
+          ]
+        },
+        "OnEquip": {
+          "type": "array:TweakDBID",
+          "value": [
+            "0x24c71708ac"
+          ]
+        },
+        "OnAttach": {
+          "type": "array:TweakDBID",
+          "value": []
+        },
+        "tags": {
+          "type": "array:CName",
+          "value": [
+            "itemPart",
+            "Fragment",
+            "itemPart",
+            "DummyPart",
+            "SkipActivityLog",
+            "HideInBackpackUI",
+            "HideInUI",
+            "HideAtVendor"
+          ]
+        }
+      }
+    },
+    {
+      "name": "Items.KiroshiOpticsFragment2",
+      "exists": true,
+      "flats": {
+        "previewEffectName": null,
+        "previewEffectTag": null,
+        "evolution": null,
+        "statModifiers": {
+          "type": "array:TweakDBID",
+          "value": []
+        },
+        "statModifierGroups": {
+          "type": "array:TweakDBID",
+          "value": [
+            "0x1a4c729f54"
+          ]
+        },
+        "OnEquip": {
+          "type": "array:TweakDBID",
+          "value": [
+            "0x2410945545"
+          ]
+        },
+        "OnAttach": {
+          "type": "array:TweakDBID",
+          "value": []
+        },
+        "tags": {
+          "type": "array:CName",
+          "value": [
+            "itemPart",
+            "Fragment",
+            "itemPart",
+            "DummyPart",
+            "SkipActivityLog",
+            "HideInBackpackUI",
+            "HideInUI",
+            "HideAtVendor"
+          ]
+        }
+      }
+    },
+    {
+      "name": "Items.KiroshiOpticsFragment3",
+      "exists": true,
+      "flats": {
+        "previewEffectName": null,
+        "previewEffectTag": null,
+        "evolution": null,
+        "statModifiers": {
+          "type": "array:TweakDBID",
+          "value": [
+            "0x24b010383a"
+          ]
+        },
+        "statModifierGroups": {
+          "type": "array:TweakDBID",
+          "value": [
+            "0x1a4c729f54"
+          ]
+        },
+        "OnEquip": {
+          "type": "array:TweakDBID",
+          "value": [
+            "0x24c71708ac"
+          ]
+        },
+        "OnAttach": {
+          "type": "array:TweakDBID",
+          "value": []
+        },
+        "tags": {
+          "type": "array:CName",
+          "value": [
+            "itemPart",
+            "Fragment",
+            "itemPart",
+            "DummyPart",
+            "SkipActivityLog",
+            "HideInBackpackUI",
+            "HideInUI",
+            "HideAtVendor"
+          ]
+        }
+      }
+    },
+    {
+      "name": "Items.KiroshiOpticsFragment4",
+      "exists": true,
+      "flats": {
+        "previewEffectName": null,
+        "previewEffectTag": null,
+        "evolution": null,
+        "statModifiers": {
+          "type": "array:TweakDBID",
+          "value": []
+        },
+        "statModifierGroups": {
+          "type": "array:TweakDBID",
+          "value": [
+            "0x1a4c729f54"
+          ]
+        },
+        "OnEquip": {
+          "type": "array:TweakDBID",
+          "value": [
+            "0x24fa877d75"
+          ]
+        },
+        "OnAttach": {
+          "type": "array:TweakDBID",
+          "value": []
+        },
+        "tags": {
+          "type": "array:CName",
+          "value": [
+            "itemPart",
+            "Fragment",
+            "itemPart",
+            "DummyPart",
+            "SkipActivityLog",
+            "HideInBackpackUI",
+            "HideInUI",
+            "HideAtVendor"
+          ]
+        }
+      }
+    },
+    {
+      "name": "Items.KiroshiOpticsFragment5",
+      "exists": true,
+      "flats": {
+        "previewEffectName": null,
+        "previewEffectTag": null,
+        "evolution": null,
+        "statModifiers": {
+          "type": "array:TweakDBID",
+          "value": []
+        },
+        "statModifierGroups": {
+          "type": "array:TweakDBID",
+          "value": [
+            "0x1a4c729f54"
+          ]
+        },
+        "OnEquip": {
+          "type": "array:TweakDBID",
+          "value": [
+            "0x24edfc6936"
+          ]
+        },
+        "OnAttach": {
+          "type": "array:TweakDBID",
+          "value": []
+        },
+        "tags": {
+          "type": "array:CName",
+          "value": [
+            "itemPart",
+            "Fragment",
+            "itemPart",
+            "DummyPart",
+            "SkipActivityLog",
+            "HideInBackpackUI",
+            "HideInUI",
+            "HideAtVendor"
+          ]
+        }
+      }
+    },
+    {
+      "name": "Items.Legendary_Nekomata_Breakthrough",
+      "exists": true,
+      "flats": {
+        "previewEffectName": {
+          "type": "CName",
+          "value": "weaponPreview"
+        },
+        "previewEffectTag": {
+          "type": "CName",
+          "value": "ricochet"
+        },
+        "evolution": {
+          "type": "TweakDBID",
+          "value": "0x1481d10fe7"
+        },
+        "statModifiers": {
+          "type": "array:TweakDBID",
+          "value": [
+            "0x1998694a3a",
+            "0x19ef6e7aac",
+            "0x1976672b16",
+            "0x1901601b80",
+            "0x199f048e23",
+            "0x19e803beb5",
+            "0x19710aef0f",
+            "0x19060ddf99",
+            "0x1996b2c208",
+            "0x19e1b5f29e",
+            "0x1a2b545e98",
+            "0x1a5c536e0e",
+            "0x1ac55a3fb4",
+            "0x30dd9f742d",
+            "0x1ab25d0f22",
+            "0x1a2c399a81",
+            "0x1a5b3eaa17",
+            "0x1ac237fbad",
+            "0x1ab530cb3b",
+            "0x1a258fd6aa",
+            "0x1a5288e63c",
+            "0x1a00790d5b",
+            "0x1a777e3dcd",
+            "0x1aee776c77",
+            "0x1a99705ce1",
+            "0x1a0714c942",
+            "0x1a7013f9d4",
+            "0x1ae91aa86e",
+            "0x1a9e1d98f8",
+            "0x1a0ea28569",
+            "0x1a79a5b5ff",
+            "0x1a19623c1a",
+            "0x1a6e650c8c",
+            "0x1af76c5d36",
+            "0x1a806b6da0",
+            "0x1a1e0ff803",
+            "0x1a6908c895",
+            "0x1af001992f",
+            "0x1a8706a9b9",
+            "0x1a17b9b428",
+            "0x1a60be84be",
+            "0x1a5623aadd",
+            "0x1a21249a4b",
+            "0x1ab82dcbf1",
+            "0x1acf2afb67",
+            "0x1a514e6ec4",
+            "0x1a26495e52",
+            "0x1abf400fe8",
+            "0x1ac8473f7e",
+            "0x1a58f822ef",
+            "0x1a2fff1279",
+            "0x1a4f389b9c",
+            "0x1a383fab0a",
+            "0x1aa136fab0",
+            "0x1ad631ca26",
+            "0x1a48555f85",
+            "0x1a3f526f13",
+            "0x1aa65b3ea9",
+            "0x1ad15c0e3f",
+            "0x1a41e313ae",
+            "0x1a36e42338",
+            "0x1a6415c85f",
+            "0x1a1312f8c9",
+            "0x1a8a1ba973",
+            "0x1afd1c99e5",
+            "0x1a63780c46",
+            "0x1a147f3cd0",
+            "0x1a8d766d6a",
+            "0x1afa715dfc",
+            "0x1a6ace406d",
+            "0x1a1dc970fb",
+            "0x1a7d0ef91e",
+            "0x1a0a09c988",
+            "0x1a93009832",
+            "0x1ae407a8a4",
+            "0x1a7a633d07",
+            "0x1a0d640d91",
+            "0x1a946d5c2b",
+            "0x1ae36a6cbd",
+            "0x1a73d5712c",
+            "0x1a04d241ba",
+            "0x1afa96e5d1",
+            "0x1a8d91d547",
+            "0x1a149884fd",
+            "0x1a639fb46b",
+            "0x1afdfb21c8",
+            "0x1a8afc115e",
+            "0x1a13f540e4",
+            "0x1a64f27072",
+            "0x1af44d6de3",
+            "0x1a834a5d75",
+            "0x1ae38dd490",
+            "0x1a948ae406",
+            "0x1a0d83b5bc",
+            "0x1a7a84852a",
+            "0x1ae4e01089",
+            "0x1a93e7201f",
+            "0x1a0aee71a5",
+            "0x1a7de94133",
+            "0x1aed565ca2",
+            "0x1a9a516c34",
+            "0x1b0a249009",
+            "0x1b7d23a09f",
+            "0x1be42af125",
+            "0x1b932dc1b3",
+            "0x1b0d495410",
+            "0x1b7a4e6486",
+            "0x1be347353c",
+            "0x1b944005aa",
+            "0x1b04ff183b",
+            "0x1b73f828ad",
+            "0x1b133fa148",
+            "0x1b643891de",
+            "0x1bfd31c064",
+            "0x1b8a36f0f2",
+            "0x1b14526551",
+            "0x1b635555c7",
+            "0x1bfa5c047d",
+            "0x1b8d5b34eb",
+            "0x1b1de4297a",
+            "0x1b6ae319ec",
+            "0x1b3812f28b",
+            "0x1b4f15c21d",
+            "0x1bd61c93a7",
+            "0x1ba11ba331",
+            "0x1b3f7f3692",
+            "0x1b48780604",
+            "0x1bd17157be",
+            "0x1ba6766728",
+            "0x1b36c97ab9",
+            "0x1b41ce4a2f",
+            "0x1b2109c3ca",
+            "0x1b560ef35c",
+            "0x1bcf07a2e6",
+            "0x1bb8009270",
+            "0x1b266407d3",
+            "0x1b51633745",
+            "0x1bc86a66ff",
+            "0x1bbf6d5669",
+            "0x1b2fd24bf8",
+            "0x1b58d57b6e",
+            "0x1b6e48550d",
+            "0x1b194f659b",
+            "0x1b80463421",
+            "0x1bf74104b7",
+            "0x1b69259114",
+            "0x1b1e22a182",
+            "0x1b872bf038",
+            "0x1bf02cc0ae",
+            "0x1b6093dd3f",
+            "0x1b1794eda9",
+            "0x129357ec62"
+          ]
+        },
+        "statModifierGroups": {
+          "type": "array:TweakDBID",
+          "value": [
+            "0x292e0abd90",
+            "0x2387c2eef4",
+            "0x22e88bef45",
+            "0x205eef5300",
+            "0x20a7a3427c",
+            "0x1d3fb09ce6",
+            "0x2f0a86dcc8",
+            "0x205b0ad45e",
+            "0x1c02466032",
+            "0x27530ab63d",
+            "0x22c2d89e65",
+            "0x21d2724fc2",
+            "0x22628d430b",
+            "0x239bddebfc",
+            "0x2b968ff1b0",
+            "0x25929f1422",
+            "0x26af0b8679"
+          ]
+        },
+        "OnEquip": {
+          "type": "array:TweakDBID",
+          "value": []
+        },
+        "OnAttach": {
+          "type": "array:TweakDBID",
+          "value": [
+            "0x1f519296fb",
+            "0x1f12100330",
+            "0x1e29d5970a",
+            "0x183e8f75da"
+          ]
+        },
+        "tags": {
+          "type": "array:CName",
+          "value": [
+            "Weapon",
+            "RangedWeapon",
+            "inventoryDoubleSlot",
+            "Rifle Sniper",
+            "TechWeapon",
+            "Preload",
+            "Weapon",
+            "Nekomata",
+            "IconicWeapon",
+            "CraftableIconic",
+            "Nekomata_Breakthrough"
+          ]
+        }
+      }
+    },
+    {
+      "name": "Items.Preset_Nekomata_Breakthrough",
+      "exists": true,
+      "flats": {
+        "previewEffectName": {
+          "type": "CName",
+          "value": "weaponPreview"
+        },
+        "previewEffectTag": {
+          "type": "CName",
+          "value": "ricochet"
+        },
+        "evolution": {
+          "type": "TweakDBID",
+          "value": "0x1481d10fe7"
+        },
+        "statModifiers": {
+          "type": "array:TweakDBID",
+          "value": [
+            "0x1998694a3a",
+            "0x19ef6e7aac",
+            "0x1976672b16",
+            "0x1901601b80",
+            "0x199f048e23",
+            "0x19e803beb5",
+            "0x19710aef0f",
+            "0x19060ddf99",
+            "0x1996b2c208",
+            "0x19e1b5f29e",
+            "0x1a2b545e98",
+            "0x1a5c536e0e",
+            "0x1ac55a3fb4",
+            "0x30dd9f742d",
+            "0x1ab25d0f22",
+            "0x1a2c399a81",
+            "0x1a5b3eaa17",
+            "0x1ac237fbad",
+            "0x1ab530cb3b",
+            "0x1a258fd6aa",
+            "0x1a5288e63c",
+            "0x1a00790d5b",
+            "0x1a777e3dcd",
+            "0x1aee776c77",
+            "0x1a99705ce1",
+            "0x1a0714c942",
+            "0x1a7013f9d4",
+            "0x1ae91aa86e",
+            "0x1a9e1d98f8",
+            "0x1a0ea28569",
+            "0x1a79a5b5ff",
+            "0x1a19623c1a",
+            "0x1a6e650c8c",
+            "0x1af76c5d36",
+            "0x1a806b6da0",
+            "0x1a1e0ff803",
+            "0x1a6908c895",
+            "0x1af001992f",
+            "0x1a8706a9b9",
+            "0x1a17b9b428",
+            "0x1a60be84be",
+            "0x1a5623aadd",
+            "0x1a21249a4b",
+            "0x1ab82dcbf1",
+            "0x1acf2afb67",
+            "0x1a514e6ec4",
+            "0x1a26495e52",
+            "0x1abf400fe8",
+            "0x1ac8473f7e",
+            "0x1a58f822ef",
+            "0x1a2fff1279",
+            "0x1a4f389b9c",
+            "0x1a383fab0a",
+            "0x1aa136fab0",
+            "0x1ad631ca26",
+            "0x1a48555f85",
+            "0x1a3f526f13",
+            "0x1aa65b3ea9",
+            "0x1ad15c0e3f",
+            "0x1a41e313ae",
+            "0x1a36e42338",
+            "0x1a6415c85f",
+            "0x1a1312f8c9",
+            "0x1a8a1ba973",
+            "0x1afd1c99e5",
+            "0x1a63780c46",
+            "0x1a147f3cd0",
+            "0x1a8d766d6a",
+            "0x1afa715dfc",
+            "0x1a6ace406d",
+            "0x1a1dc970fb",
+            "0x1a7d0ef91e",
+            "0x1a0a09c988",
+            "0x1a93009832",
+            "0x1ae407a8a4",
+            "0x1a7a633d07",
+            "0x1a0d640d91",
+            "0x1a946d5c2b",
+            "0x1ae36a6cbd",
+            "0x1a73d5712c",
+            "0x1a04d241ba",
+            "0x1afa96e5d1",
+            "0x1a8d91d547",
+            "0x1a149884fd",
+            "0x1a639fb46b",
+            "0x1afdfb21c8",
+            "0x1a8afc115e",
+            "0x1a13f540e4",
+            "0x1a64f27072",
+            "0x1af44d6de3",
+            "0x1a834a5d75",
+            "0x1ae38dd490",
+            "0x1a948ae406",
+            "0x1a0d83b5bc",
+            "0x1a7a84852a",
+            "0x1ae4e01089",
+            "0x1a93e7201f",
+            "0x1a0aee71a5",
+            "0x1a7de94133",
+            "0x1aed565ca2",
+            "0x1a9a516c34",
+            "0x1b0a249009",
+            "0x1b7d23a09f",
+            "0x1be42af125",
+            "0x1b932dc1b3",
+            "0x1b0d495410",
+            "0x1b7a4e6486",
+            "0x1be347353c",
+            "0x1b944005aa",
+            "0x1b04ff183b",
+            "0x1b73f828ad",
+            "0x1b133fa148",
+            "0x1b643891de",
+            "0x1bfd31c064",
+            "0x1b8a36f0f2",
+            "0x1b14526551",
+            "0x1b635555c7",
+            "0x1bfa5c047d",
+            "0x1b8d5b34eb",
+            "0x1b1de4297a",
+            "0x1b6ae319ec",
+            "0x1b3812f28b",
+            "0x1b4f15c21d",
+            "0x1bd61c93a7",
+            "0x1ba11ba331",
+            "0x1b3f7f3692",
+            "0x1b48780604",
+            "0x1bd17157be",
+            "0x1ba6766728",
+            "0x1b36c97ab9",
+            "0x1b41ce4a2f",
+            "0x1b2109c3ca",
+            "0x1b560ef35c",
+            "0x1bcf07a2e6",
+            "0x1bb8009270",
+            "0x1b266407d3",
+            "0x1b51633745",
+            "0x1bc86a66ff",
+            "0x1bbf6d5669",
+            "0x1b2fd24bf8",
+            "0x1b58d57b6e",
+            "0x1b6e48550d",
+            "0x1b194f659b",
+            "0x1b80463421",
+            "0x1bf74104b7",
+            "0x1b69259114",
+            "0x1b1e22a182",
+            "0x1b872bf038",
+            "0x1bf02cc0ae",
+            "0x1b6093dd3f",
+            "0x1b1794eda9",
+            "0x129357ec62"
+          ]
+        },
+        "statModifierGroups": {
+          "type": "array:TweakDBID",
+          "value": [
+            "0x292e0abd90",
+            "0x2387c2eef4",
+            "0x22e88bef45",
+            "0x205eef5300",
+            "0x20a7a3427c",
+            "0x1d3fb09ce6",
+            "0x2f0a86dcc8",
+            "0x205b0ad45e",
+            "0x1c02466032",
+            "0x27530ab63d",
+            "0x22c2d89e65",
+            "0x21d2724fc2",
+            "0x22628d430b",
+            "0x239bddebfc",
+            "0x2b968ff1b0",
+            "0x25929f1422",
+            "0x26af0b8679"
+          ]
+        },
+        "OnEquip": {
+          "type": "array:TweakDBID",
+          "value": []
+        },
+        "OnAttach": {
+          "type": "array:TweakDBID",
+          "value": [
+            "0x1f519296fb",
+            "0x1f12100330",
+            "0x1e29d5970a",
+            "0x183e8f75da"
+          ]
+        },
+        "tags": {
+          "type": "array:CName",
+          "value": [
+            "Weapon",
+            "RangedWeapon",
+            "inventoryDoubleSlot",
+            "Rifle Sniper",
+            "TechWeapon",
+            "Preload",
+            "Weapon",
+            "Nekomata",
+            "IconicWeapon",
+            "CraftableIconic",
+            "Nekomata_Breakthrough"
+          ]
+        }
+      }
+    },
+    {
+      "name": "Items.Preset_Nekomata_Breakthrough_Legendary",
+      "exists": true,
+      "flats": {
+        "previewEffectName": {
+          "type": "CName",
+          "value": "weaponPreview"
+        },
+        "previewEffectTag": {
+          "type": "CName",
+          "value": "ricochet"
+        },
+        "evolution": {
+          "type": "TweakDBID",
+          "value": "0x1481d10fe7"
+        },
+        "statModifiers": {
+          "type": "array:TweakDBID",
+          "value": [
+            "0x1998694a3a",
+            "0x19ef6e7aac",
+            "0x1976672b16",
+            "0x1901601b80",
+            "0x199f048e23",
+            "0x19e803beb5",
+            "0x19710aef0f",
+            "0x19060ddf99",
+            "0x1996b2c208",
+            "0x19e1b5f29e",
+            "0x1a2b545e98",
+            "0x1a5c536e0e",
+            "0x1ac55a3fb4",
+            "0x30dd9f742d",
+            "0x1ab25d0f22",
+            "0x1a2c399a81",
+            "0x1a5b3eaa17",
+            "0x1ac237fbad",
+            "0x1ab530cb3b",
+            "0x1a258fd6aa",
+            "0x1a5288e63c",
+            "0x1a00790d5b",
+            "0x1a777e3dcd",
+            "0x1aee776c77",
+            "0x1a99705ce1",
+            "0x1a0714c942",
+            "0x1a7013f9d4",
+            "0x1ae91aa86e",
+            "0x1a9e1d98f8",
+            "0x1a0ea28569",
+            "0x1a79a5b5ff",
+            "0x1a19623c1a",
+            "0x1a6e650c8c",
+            "0x1af76c5d36",
+            "0x1a806b6da0",
+            "0x1a1e0ff803",
+            "0x1a6908c895",
+            "0x1af001992f",
+            "0x1a8706a9b9",
+            "0x1a17b9b428",
+            "0x1a60be84be",
+            "0x1a5623aadd",
+            "0x1a21249a4b",
+            "0x1ab82dcbf1",
+            "0x1acf2afb67",
+            "0x1a514e6ec4",
+            "0x1a26495e52",
+            "0x1abf400fe8",
+            "0x1ac8473f7e",
+            "0x1a58f822ef",
+            "0x1a2fff1279",
+            "0x1a4f389b9c",
+            "0x1a383fab0a",
+            "0x1aa136fab0",
+            "0x1ad631ca26",
+            "0x1a48555f85",
+            "0x1a3f526f13",
+            "0x1aa65b3ea9",
+            "0x1ad15c0e3f",
+            "0x1a41e313ae",
+            "0x1a36e42338",
+            "0x1a6415c85f",
+            "0x1a1312f8c9",
+            "0x1a8a1ba973",
+            "0x1afd1c99e5",
+            "0x1a63780c46",
+            "0x1a147f3cd0",
+            "0x1a8d766d6a",
+            "0x1afa715dfc",
+            "0x1a6ace406d",
+            "0x1a1dc970fb",
+            "0x1a7d0ef91e",
+            "0x1a0a09c988",
+            "0x1a93009832",
+            "0x1ae407a8a4",
+            "0x1a7a633d07",
+            "0x1a0d640d91",
+            "0x1a946d5c2b",
+            "0x1ae36a6cbd",
+            "0x1a73d5712c",
+            "0x1a04d241ba",
+            "0x1afa96e5d1",
+            "0x1a8d91d547",
+            "0x1a149884fd",
+            "0x1a639fb46b",
+            "0x1afdfb21c8",
+            "0x1a8afc115e",
+            "0x1a13f540e4",
+            "0x1a64f27072",
+            "0x1af44d6de3",
+            "0x1a834a5d75",
+            "0x1ae38dd490",
+            "0x1a948ae406",
+            "0x1a0d83b5bc",
+            "0x1a7a84852a",
+            "0x1ae4e01089",
+            "0x1a93e7201f",
+            "0x1a0aee71a5",
+            "0x1a7de94133",
+            "0x1aed565ca2",
+            "0x1a9a516c34",
+            "0x1b0a249009",
+            "0x1b7d23a09f",
+            "0x1be42af125",
+            "0x1b932dc1b3",
+            "0x1b0d495410",
+            "0x1b7a4e6486",
+            "0x1be347353c",
+            "0x1b944005aa",
+            "0x1b04ff183b",
+            "0x1b73f828ad",
+            "0x1b133fa148",
+            "0x1b643891de",
+            "0x1bfd31c064",
+            "0x1b8a36f0f2",
+            "0x1b14526551",
+            "0x1b635555c7",
+            "0x1bfa5c047d",
+            "0x1b8d5b34eb",
+            "0x1b1de4297a",
+            "0x1b6ae319ec",
+            "0x1b3812f28b",
+            "0x1b4f15c21d",
+            "0x1bd61c93a7",
+            "0x1ba11ba331",
+            "0x1b3f7f3692",
+            "0x1b48780604",
+            "0x1bd17157be",
+            "0x1ba6766728",
+            "0x1b36c97ab9",
+            "0x1b41ce4a2f",
+            "0x1b2109c3ca",
+            "0x1b560ef35c",
+            "0x1bcf07a2e6",
+            "0x1bb8009270",
+            "0x1b266407d3",
+            "0x1b51633745",
+            "0x1bc86a66ff",
+            "0x1bbf6d5669",
+            "0x1b2fd24bf8",
+            "0x1b58d57b6e",
+            "0x1b6e48550d",
+            "0x1b194f659b",
+            "0x1b80463421",
+            "0x1bf74104b7",
+            "0x1b69259114",
+            "0x1b1e22a182",
+            "0x1b872bf038",
+            "0x1bf02cc0ae",
+            "0x1b6093dd3f",
+            "0x1b1794eda9",
+            "0x129357ec62"
+          ]
+        },
+        "statModifierGroups": {
+          "type": "array:TweakDBID",
+          "value": [
+            "0x292e0abd90",
+            "0x2387c2eef4",
+            "0x22e88bef45",
+            "0x205eef5300",
+            "0x20a7a3427c",
+            "0x1d3fb09ce6",
+            "0x2f0a86dcc8",
+            "0x205b0ad45e",
+            "0x1c02466032",
+            "0x27530ab63d",
+            "0x22c2d89e65",
+            "0x21d2724fc2",
+            "0x22628d430b",
+            "0x239bddebfc",
+            "0x2b968ff1b0",
+            "0x25929f1422",
+            "0x26af0b8679"
+          ]
+        },
+        "OnEquip": {
+          "type": "array:TweakDBID",
+          "value": []
+        },
+        "OnAttach": {
+          "type": "array:TweakDBID",
+          "value": [
+            "0x1f519296fb",
+            "0x1f12100330",
+            "0x1e29d5970a",
+            "0x183e8f75da"
+          ]
+        },
+        "tags": {
+          "type": "array:CName",
+          "value": [
+            "Weapon",
+            "RangedWeapon",
+            "inventoryDoubleSlot",
+            "Rifle Sniper",
+            "TechWeapon",
+            "Preload",
+            "Weapon",
+            "Nekomata",
+            "IconicWeapon",
+            "CraftableIconic",
+            "Nekomata_Breakthrough",
+            "DeprecatedIconic"
+          ]
+        }
+      }
+    },
+    {
+      "name": "Items.Preset_Omaha_Suzie",
+      "exists": true,
+      "flats": {
+        "previewEffectName": {
+          "type": "CName",
+          "value": "weaponPreview"
+        },
+        "previewEffectTag": {
+          "type": "CName",
+          "value": "pierce"
+        },
+        "evolution": {
+          "type": "TweakDBID",
+          "value": "0x1481d10fe7"
+        },
+        "statModifiers": {
+          "type": "array:TweakDBID",
+          "value": [
+            "0x1998694a3a",
+            "0x19ef6e7aac",
+            "0x1976672b16",
+            "0x1901601b80",
+            "0x199f048e23",
+            "0x19e803beb5",
+            "0x19710aef0f",
+            "0x19060ddf99",
+            "0x1996b2c208",
+            "0x19e1b5f29e",
+            "0x1a2b545e98",
+            "0x1a5c536e0e",
+            "0x1ac55a3fb4",
+            "0x30dd9f742d",
+            "0x1ab25d0f22",
+            "0x1a2c399a81",
+            "0x1a5b3eaa17",
+            "0x1ac237fbad",
+            "0x1ab530cb3b",
+            "0x1a258fd6aa",
+            "0x1a5288e63c",
+            "0x1a00790d5b",
+            "0x1a777e3dcd",
+            "0x1aee776c77",
+            "0x1a99705ce1",
+            "0x1a0714c942",
+            "0x1a7013f9d4",
+            "0x1ae91aa86e",
+            "0x1a9e1d98f8",
+            "0x1a0ea28569",
+            "0x1a79a5b5ff",
+            "0x1a19623c1a",
+            "0x1a6e650c8c",
+            "0x1af76c5d36",
+            "0x1a806b6da0",
+            "0x1a1e0ff803",
+            "0x1a6908c895",
+            "0x1af001992f",
+            "0x1a8706a9b9",
+            "0x1a17b9b428",
+            "0x1a60be84be",
+            "0x1a5623aadd",
+            "0x1a21249a4b",
+            "0x1ab82dcbf1",
+            "0x1acf2afb67",
+            "0x1a514e6ec4",
+            "0x1a26495e52",
+            "0x1abf400fe8",
+            "0x1ac8473f7e",
+            "0x1a58f822ef",
+            "0x1a2fff1279",
+            "0x1a4f389b9c",
+            "0x1a383fab0a",
+            "0x1aa136fab0",
+            "0x1ad631ca26",
+            "0x1a48555f85",
+            "0x1a3f526f13",
+            "0x1aa65b3ea9",
+            "0x1ad15c0e3f",
+            "0x1a41e313ae",
+            "0x1a36e42338",
+            "0x1a6415c85f",
+            "0x1a1312f8c9",
+            "0x1a8a1ba973",
+            "0x1afd1c99e5",
+            "0x1a63780c46",
+            "0x1a147f3cd0",
+            "0x1a8d766d6a",
+            "0x1afa715dfc",
+            "0x1a6ace406d",
+            "0x1a1dc970fb",
+            "0x1a7d0ef91e",
+            "0x1a0a09c988",
+            "0x1a93009832",
+            "0x1ae407a8a4",
+            "0x1a7a633d07",
+            "0x1a0d640d91",
+            "0x1a946d5c2b",
+            "0x1ae36a6cbd",
+            "0x1a73d5712c",
+            "0x1a04d241ba",
+            "0x1afa96e5d1",
+            "0x1a8d91d547",
+            "0x1a149884fd",
+            "0x1a639fb46b",
+            "0x1afdfb21c8",
+            "0x1a8afc115e",
+            "0x1a13f540e4",
+            "0x1a64f27072",
+            "0x1af44d6de3",
+            "0x1a834a5d75",
+            "0x1ae38dd490",
+            "0x1a948ae406",
+            "0x1a0d83b5bc",
+            "0x1a7a84852a",
+            "0x1ae4e01089",
+            "0x1a93e7201f",
+            "0x1a0aee71a5",
+            "0x1a7de94133",
+            "0x1aed565ca2",
+            "0x1a9a516c34",
+            "0x1b0a249009",
+            "0x1b7d23a09f",
+            "0x1be42af125",
+            "0x1b932dc1b3",
+            "0x1b0d495410",
+            "0x1b7a4e6486",
+            "0x1be347353c",
+            "0x1b944005aa",
+            "0x1b04ff183b",
+            "0x1b73f828ad",
+            "0x1b133fa148",
+            "0x1b643891de",
+            "0x1bfd31c064",
+            "0x1b8a36f0f2",
+            "0x1b14526551",
+            "0x1b635555c7",
+            "0x1bfa5c047d",
+            "0x1b8d5b34eb",
+            "0x1b1de4297a",
+            "0x1b6ae319ec",
+            "0x1b3812f28b",
+            "0x1b4f15c21d",
+            "0x1bd61c93a7",
+            "0x1ba11ba331",
+            "0x1b3f7f3692",
+            "0x1b48780604",
+            "0x1bd17157be",
+            "0x1ba6766728",
+            "0x1b36c97ab9",
+            "0x1b41ce4a2f",
+            "0x1b2109c3ca",
+            "0x1b560ef35c",
+            "0x1bcf07a2e6",
+            "0x1bb8009270",
+            "0x1b266407d3",
+            "0x1b51633745",
+            "0x1bc86a66ff",
+            "0x1bbf6d5669",
+            "0x1b2fd24bf8",
+            "0x1b58d57b6e",
+            "0x1b6e48550d",
+            "0x1b194f659b",
+            "0x1b80463421",
+            "0x1bf74104b7",
+            "0x1b69259114",
+            "0x1b1e22a182",
+            "0x1b872bf038",
+            "0x1bf02cc0ae",
+            "0x1b6093dd3f",
+            "0x1b1794eda9",
+            "0x129357ec62"
+          ]
+        },
+        "statModifierGroups": {
+          "type": "array:TweakDBID",
+          "value": [
+            "0x204767d211",
+            "0x207731083d",
+            "0x1f14fe62d5",
+            "0x1d57749db4",
+            "0x1dae388cc8",
+            "0x1a2a56a873",
+            "0x1fff7a6197",
+            "0x1d52911aea",
+            "0x150d7b7e7e",
+            "0x22416c3c6a",
+            "0x1cd62ff154",
+            "0x1d7be528c4",
+            "0x1ddbb0f5aa",
+            "0x239bddebfc",
+            "0x26e0f0d015",
+            "0x25929f1422",
+            "0x26af0b8679"
+          ]
+        },
+        "OnEquip": {
+          "type": "array:TweakDBID",
+          "value": []
+        },
+        "OnAttach": {
+          "type": "array:TweakDBID",
+          "value": [
+            "0x1a1ac3c42b",
+            "0x1d3815d60b",
+            "0x1f165ace30",
+            "0x23ee59d975"
+          ]
+        },
+        "tags": {
+          "type": "array:CName",
+          "value": [
+            "Weapon",
+            "RangedWeapon",
+            "OneHandedRangedWeapon",
+            "DriverCombatRangedWeapon",
+            "DriverCombatBikeWeapon",
+            "TechWeapon",
+            "Preload",
+            "Weapon",
+            "Handgun",
+            "T2_Inject_Weapon",
+            "Omaha",
+            "IconicWeapon"
+          ]
+        }
+      }
+    },
+    {
+      "name": "Items.Preset_Omaha_Suzie_Epic",
+      "exists": true,
+      "flats": {
+        "previewEffectName": {
+          "type": "CName",
+          "value": "weaponPreview"
+        },
+        "previewEffectTag": {
+          "type": "CName",
+          "value": "pierce"
+        },
+        "evolution": {
+          "type": "TweakDBID",
+          "value": "0x1481d10fe7"
+        },
+        "statModifiers": {
+          "type": "array:TweakDBID",
+          "value": [
+            "0x1998694a3a",
+            "0x19ef6e7aac",
+            "0x1976672b16",
+            "0x1901601b80",
+            "0x199f048e23",
+            "0x19e803beb5",
+            "0x19710aef0f",
+            "0x19060ddf99",
+            "0x1996b2c208",
+            "0x19e1b5f29e",
+            "0x1a2b545e98",
+            "0x1a5c536e0e",
+            "0x1ac55a3fb4",
+            "0x30dd9f742d",
+            "0x1ab25d0f22",
+            "0x1a2c399a81",
+            "0x1a5b3eaa17",
+            "0x1ac237fbad",
+            "0x1ab530cb3b",
+            "0x1a258fd6aa",
+            "0x1a5288e63c",
+            "0x1a00790d5b",
+            "0x1a777e3dcd",
+            "0x1aee776c77",
+            "0x1a99705ce1",
+            "0x1a0714c942",
+            "0x1a7013f9d4",
+            "0x1ae91aa86e",
+            "0x1a9e1d98f8",
+            "0x1a0ea28569",
+            "0x1a79a5b5ff",
+            "0x1a19623c1a",
+            "0x1a6e650c8c",
+            "0x1af76c5d36",
+            "0x1a806b6da0",
+            "0x1a1e0ff803",
+            "0x1a6908c895",
+            "0x1af001992f",
+            "0x1a8706a9b9",
+            "0x1a17b9b428",
+            "0x1a60be84be",
+            "0x1a5623aadd",
+            "0x1a21249a4b",
+            "0x1ab82dcbf1",
+            "0x1acf2afb67",
+            "0x1a514e6ec4",
+            "0x1a26495e52",
+            "0x1abf400fe8",
+            "0x1ac8473f7e",
+            "0x1a58f822ef",
+            "0x1a2fff1279",
+            "0x1a4f389b9c",
+            "0x1a383fab0a",
+            "0x1aa136fab0",
+            "0x1ad631ca26",
+            "0x1a48555f85",
+            "0x1a3f526f13",
+            "0x1aa65b3ea9",
+            "0x1ad15c0e3f",
+            "0x1a41e313ae",
+            "0x1a36e42338",
+            "0x1a6415c85f",
+            "0x1a1312f8c9",
+            "0x1a8a1ba973",
+            "0x1afd1c99e5",
+            "0x1a63780c46",
+            "0x1a147f3cd0",
+            "0x1a8d766d6a",
+            "0x1afa715dfc",
+            "0x1a6ace406d",
+            "0x1a1dc970fb",
+            "0x1a7d0ef91e",
+            "0x1a0a09c988",
+            "0x1a93009832",
+            "0x1ae407a8a4",
+            "0x1a7a633d07",
+            "0x1a0d640d91",
+            "0x1a946d5c2b",
+            "0x1ae36a6cbd",
+            "0x1a73d5712c",
+            "0x1a04d241ba",
+            "0x1afa96e5d1",
+            "0x1a8d91d547",
+            "0x1a149884fd",
+            "0x1a639fb46b",
+            "0x1afdfb21c8",
+            "0x1a8afc115e",
+            "0x1a13f540e4",
+            "0x1a64f27072",
+            "0x1af44d6de3",
+            "0x1a834a5d75",
+            "0x1ae38dd490",
+            "0x1a948ae406",
+            "0x1a0d83b5bc",
+            "0x1a7a84852a",
+            "0x1ae4e01089",
+            "0x1a93e7201f",
+            "0x1a0aee71a5",
+            "0x1a7de94133",
+            "0x1aed565ca2",
+            "0x1a9a516c34",
+            "0x1b0a249009",
+            "0x1b7d23a09f",
+            "0x1be42af125",
+            "0x1b932dc1b3",
+            "0x1b0d495410",
+            "0x1b7a4e6486",
+            "0x1be347353c",
+            "0x1b944005aa",
+            "0x1b04ff183b",
+            "0x1b73f828ad",
+            "0x1b133fa148",
+            "0x1b643891de",
+            "0x1bfd31c064",
+            "0x1b8a36f0f2",
+            "0x1b14526551",
+            "0x1b635555c7",
+            "0x1bfa5c047d",
+            "0x1b8d5b34eb",
+            "0x1b1de4297a",
+            "0x1b6ae319ec",
+            "0x1b3812f28b",
+            "0x1b4f15c21d",
+            "0x1bd61c93a7",
+            "0x1ba11ba331",
+            "0x1b3f7f3692",
+            "0x1b48780604",
+            "0x1bd17157be",
+            "0x1ba6766728",
+            "0x1b36c97ab9",
+            "0x1b41ce4a2f",
+            "0x1b2109c3ca",
+            "0x1b560ef35c",
+            "0x1bcf07a2e6",
+            "0x1bb8009270",
+            "0x1b266407d3",
+            "0x1b51633745",
+            "0x1bc86a66ff",
+            "0x1bbf6d5669",
+            "0x1b2fd24bf8",
+            "0x1b58d57b6e",
+            "0x1b6e48550d",
+            "0x1b194f659b",
+            "0x1b80463421",
+            "0x1bf74104b7",
+            "0x1b69259114",
+            "0x1b1e22a182",
+            "0x1b872bf038",
+            "0x1bf02cc0ae",
+            "0x1b6093dd3f",
+            "0x1b1794eda9",
+            "0x129357ec62"
+          ]
+        },
+        "statModifierGroups": {
+          "type": "array:TweakDBID",
+          "value": [
+            "0x204767d211",
+            "0x207731083d",
+            "0x1f14fe62d5",
+            "0x1d57749db4",
+            "0x1dae388cc8",
+            "0x1a2a56a873",
+            "0x1fff7a6197",
+            "0x1d52911aea",
+            "0x150d7b7e7e",
+            "0x22416c3c6a",
+            "0x1cd62ff154",
+            "0x1d7be528c4",
+            "0x1ddbb0f5aa",
+            "0x239bddebfc",
+            "0x26e0f0d015",
+            "0x25929f1422",
+            "0x26af0b8679"
+          ]
+        },
+        "OnEquip": {
+          "type": "array:TweakDBID",
+          "value": []
+        },
+        "OnAttach": {
+          "type": "array:TweakDBID",
+          "value": [
+            "0x1a1ac3c42b",
+            "0x1d3815d60b",
+            "0x1f165ace30",
+            "0x23ee59d975"
+          ]
+        },
+        "tags": {
+          "type": "array:CName",
+          "value": [
+            "Weapon",
+            "RangedWeapon",
+            "OneHandedRangedWeapon",
+            "DriverCombatRangedWeapon",
+            "DriverCombatBikeWeapon",
+            "TechWeapon",
+            "Preload",
+            "Weapon",
+            "Handgun",
+            "T2_Inject_Weapon",
+            "Omaha",
+            "IconicWeapon",
+            "DeprecatedIconic"
+          ]
+        }
+      }
+    },
+    {
+      "name": "Items.Preset_Omaha_Suzie_Legendary",
+      "exists": true,
+      "flats": {
+        "previewEffectName": {
+          "type": "CName",
+          "value": "weaponPreview"
+        },
+        "previewEffectTag": {
+          "type": "CName",
+          "value": "pierce"
+        },
+        "evolution": {
+          "type": "TweakDBID",
+          "value": "0x1481d10fe7"
+        },
+        "statModifiers": {
+          "type": "array:TweakDBID",
+          "value": [
+            "0x1998694a3a",
+            "0x19ef6e7aac",
+            "0x1976672b16",
+            "0x1901601b80",
+            "0x199f048e23",
+            "0x19e803beb5",
+            "0x19710aef0f",
+            "0x19060ddf99",
+            "0x1996b2c208",
+            "0x19e1b5f29e",
+            "0x1a2b545e98",
+            "0x1a5c536e0e",
+            "0x1ac55a3fb4",
+            "0x30dd9f742d",
+            "0x1ab25d0f22",
+            "0x1a2c399a81",
+            "0x1a5b3eaa17",
+            "0x1ac237fbad",
+            "0x1ab530cb3b",
+            "0x1a258fd6aa",
+            "0x1a5288e63c",
+            "0x1a00790d5b",
+            "0x1a777e3dcd",
+            "0x1aee776c77",
+            "0x1a99705ce1",
+            "0x1a0714c942",
+            "0x1a7013f9d4",
+            "0x1ae91aa86e",
+            "0x1a9e1d98f8",
+            "0x1a0ea28569",
+            "0x1a79a5b5ff",
+            "0x1a19623c1a",
+            "0x1a6e650c8c",
+            "0x1af76c5d36",
+            "0x1a806b6da0",
+            "0x1a1e0ff803",
+            "0x1a6908c895",
+            "0x1af001992f",
+            "0x1a8706a9b9",
+            "0x1a17b9b428",
+            "0x1a60be84be",
+            "0x1a5623aadd",
+            "0x1a21249a4b",
+            "0x1ab82dcbf1",
+            "0x1acf2afb67",
+            "0x1a514e6ec4",
+            "0x1a26495e52",
+            "0x1abf400fe8",
+            "0x1ac8473f7e",
+            "0x1a58f822ef",
+            "0x1a2fff1279",
+            "0x1a4f389b9c",
+            "0x1a383fab0a",
+            "0x1aa136fab0",
+            "0x1ad631ca26",
+            "0x1a48555f85",
+            "0x1a3f526f13",
+            "0x1aa65b3ea9",
+            "0x1ad15c0e3f",
+            "0x1a41e313ae",
+            "0x1a36e42338",
+            "0x1a6415c85f",
+            "0x1a1312f8c9",
+            "0x1a8a1ba973",
+            "0x1afd1c99e5",
+            "0x1a63780c46",
+            "0x1a147f3cd0",
+            "0x1a8d766d6a",
+            "0x1afa715dfc",
+            "0x1a6ace406d",
+            "0x1a1dc970fb",
+            "0x1a7d0ef91e",
+            "0x1a0a09c988",
+            "0x1a93009832",
+            "0x1ae407a8a4",
+            "0x1a7a633d07",
+            "0x1a0d640d91",
+            "0x1a946d5c2b",
+            "0x1ae36a6cbd",
+            "0x1a73d5712c",
+            "0x1a04d241ba",
+            "0x1afa96e5d1",
+            "0x1a8d91d547",
+            "0x1a149884fd",
+            "0x1a639fb46b",
+            "0x1afdfb21c8",
+            "0x1a8afc115e",
+            "0x1a13f540e4",
+            "0x1a64f27072",
+            "0x1af44d6de3",
+            "0x1a834a5d75",
+            "0x1ae38dd490",
+            "0x1a948ae406",
+            "0x1a0d83b5bc",
+            "0x1a7a84852a",
+            "0x1ae4e01089",
+            "0x1a93e7201f",
+            "0x1a0aee71a5",
+            "0x1a7de94133",
+            "0x1aed565ca2",
+            "0x1a9a516c34",
+            "0x1b0a249009",
+            "0x1b7d23a09f",
+            "0x1be42af125",
+            "0x1b932dc1b3",
+            "0x1b0d495410",
+            "0x1b7a4e6486",
+            "0x1be347353c",
+            "0x1b944005aa",
+            "0x1b04ff183b",
+            "0x1b73f828ad",
+            "0x1b133fa148",
+            "0x1b643891de",
+            "0x1bfd31c064",
+            "0x1b8a36f0f2",
+            "0x1b14526551",
+            "0x1b635555c7",
+            "0x1bfa5c047d",
+            "0x1b8d5b34eb",
+            "0x1b1de4297a",
+            "0x1b6ae319ec",
+            "0x1b3812f28b",
+            "0x1b4f15c21d",
+            "0x1bd61c93a7",
+            "0x1ba11ba331",
+            "0x1b3f7f3692",
+            "0x1b48780604",
+            "0x1bd17157be",
+            "0x1ba6766728",
+            "0x1b36c97ab9",
+            "0x1b41ce4a2f",
+            "0x1b2109c3ca",
+            "0x1b560ef35c",
+            "0x1bcf07a2e6",
+            "0x1bb8009270",
+            "0x1b266407d3",
+            "0x1b51633745",
+            "0x1bc86a66ff",
+            "0x1bbf6d5669",
+            "0x1b2fd24bf8",
+            "0x1b58d57b6e",
+            "0x1b6e48550d",
+            "0x1b194f659b",
+            "0x1b80463421",
+            "0x1bf74104b7",
+            "0x1b69259114",
+            "0x1b1e22a182",
+            "0x1b872bf038",
+            "0x1bf02cc0ae",
+            "0x1b6093dd3f",
+            "0x1b1794eda9",
+            "0x129357ec62"
+          ]
+        },
+        "statModifierGroups": {
+          "type": "array:TweakDBID",
+          "value": [
+            "0x204767d211",
+            "0x207731083d",
+            "0x1f14fe62d5",
+            "0x1d57749db4",
+            "0x1dae388cc8",
+            "0x1a2a56a873",
+            "0x1fff7a6197",
+            "0x1d52911aea",
+            "0x150d7b7e7e",
+            "0x22416c3c6a",
+            "0x1cd62ff154",
+            "0x1d7be528c4",
+            "0x1ddbb0f5aa",
+            "0x239bddebfc",
+            "0x26e0f0d015",
+            "0x25929f1422",
+            "0x26af0b8679"
+          ]
+        },
+        "OnEquip": {
+          "type": "array:TweakDBID",
+          "value": []
+        },
+        "OnAttach": {
+          "type": "array:TweakDBID",
+          "value": [
+            "0x1a1ac3c42b",
+            "0x1d3815d60b",
+            "0x1f165ace30",
+            "0x23ee59d975"
+          ]
+        },
+        "tags": {
+          "type": "array:CName",
+          "value": [
+            "Weapon",
+            "RangedWeapon",
+            "OneHandedRangedWeapon",
+            "DriverCombatRangedWeapon",
+            "DriverCombatBikeWeapon",
+            "TechWeapon",
+            "Preload",
+            "Weapon",
+            "Handgun",
+            "T2_Inject_Weapon",
+            "Omaha",
+            "IconicWeapon",
+            "DeprecatedIconic"
+          ]
+        }
+      }
+    },
+    {
+      "name": "Items.Proficiency_Craftable_Legendary_Nekomata",
+      "exists": true,
+      "flats": {
+        "previewEffectName": {
+          "type": "CName",
+          "value": "weaponPreview"
+        },
+        "previewEffectTag": {
+          "type": "CName",
+          "value": "pierce"
+        },
+        "evolution": {
+          "type": "TweakDBID",
+          "value": "0x1481d10fe7"
+        },
+        "statModifiers": {
+          "type": "array:TweakDBID",
+          "value": [
+            "0x1998694a3a",
+            "0x19ef6e7aac",
+            "0x1976672b16",
+            "0x1901601b80",
+            "0x199f048e23",
+            "0x19e803beb5",
+            "0x19710aef0f",
+            "0x19060ddf99",
+            "0x1996b2c208",
+            "0x19e1b5f29e",
+            "0x1a2b545e98",
+            "0x1a5c536e0e",
+            "0x1ac55a3fb4",
+            "0x30dd9f742d",
+            "0x1ab25d0f22",
+            "0x1a2c399a81",
+            "0x1a5b3eaa17",
+            "0x1ac237fbad",
+            "0x1ab530cb3b",
+            "0x1a258fd6aa",
+            "0x1a5288e63c",
+            "0x1a00790d5b",
+            "0x1a777e3dcd",
+            "0x1aee776c77",
+            "0x1a99705ce1",
+            "0x1a0714c942",
+            "0x1a7013f9d4",
+            "0x1ae91aa86e",
+            "0x1a9e1d98f8",
+            "0x1a0ea28569",
+            "0x1a79a5b5ff",
+            "0x1a19623c1a",
+            "0x1a6e650c8c",
+            "0x1af76c5d36",
+            "0x1a806b6da0",
+            "0x1a1e0ff803",
+            "0x1a6908c895",
+            "0x1af001992f",
+            "0x1a8706a9b9",
+            "0x1a17b9b428",
+            "0x1a60be84be",
+            "0x1a5623aadd",
+            "0x1a21249a4b",
+            "0x1ab82dcbf1",
+            "0x1acf2afb67",
+            "0x1a514e6ec4",
+            "0x1a26495e52",
+            "0x1abf400fe8",
+            "0x1ac8473f7e",
+            "0x1a58f822ef",
+            "0x1a2fff1279",
+            "0x1a4f389b9c",
+            "0x1a383fab0a",
+            "0x1aa136fab0",
+            "0x1ad631ca26",
+            "0x1a48555f85",
+            "0x1a3f526f13",
+            "0x1aa65b3ea9",
+            "0x1ad15c0e3f",
+            "0x1a41e313ae",
+            "0x1a36e42338",
+            "0x1a6415c85f",
+            "0x1a1312f8c9",
+            "0x1a8a1ba973",
+            "0x1afd1c99e5",
+            "0x1a63780c46",
+            "0x1a147f3cd0",
+            "0x1a8d766d6a",
+            "0x1afa715dfc",
+            "0x1a6ace406d",
+            "0x1a1dc970fb",
+            "0x1a7d0ef91e",
+            "0x1a0a09c988",
+            "0x1a93009832",
+            "0x1ae407a8a4",
+            "0x1a7a633d07",
+            "0x1a0d640d91",
+            "0x1a946d5c2b",
+            "0x1ae36a6cbd",
+            "0x1a73d5712c",
+            "0x1a04d241ba",
+            "0x1afa96e5d1",
+            "0x1a8d91d547",
+            "0x1a149884fd",
+            "0x1a639fb46b",
+            "0x1afdfb21c8",
+            "0x1a8afc115e",
+            "0x1a13f540e4",
+            "0x1a64f27072",
+            "0x1af44d6de3",
+            "0x1a834a5d75",
+            "0x1ae38dd490",
+            "0x1a948ae406",
+            "0x1a0d83b5bc",
+            "0x1a7a84852a",
+            "0x1ae4e01089",
+            "0x1a93e7201f",
+            "0x1a0aee71a5",
+            "0x1a7de94133",
+            "0x1aed565ca2",
+            "0x1a9a516c34",
+            "0x1b0a249009",
+            "0x1b7d23a09f",
+            "0x1be42af125",
+            "0x1b932dc1b3",
+            "0x1b0d495410",
+            "0x1b7a4e6486",
+            "0x1be347353c",
+            "0x1b944005aa",
+            "0x1b04ff183b",
+            "0x1b73f828ad",
+            "0x1b133fa148",
+            "0x1b643891de",
+            "0x1bfd31c064",
+            "0x1b8a36f0f2",
+            "0x1b14526551",
+            "0x1b635555c7",
+            "0x1bfa5c047d",
+            "0x1b8d5b34eb",
+            "0x1b1de4297a",
+            "0x1b6ae319ec",
+            "0x1b3812f28b",
+            "0x1b4f15c21d",
+            "0x1bd61c93a7",
+            "0x1ba11ba331",
+            "0x1b3f7f3692",
+            "0x1b48780604",
+            "0x1bd17157be",
+            "0x1ba6766728",
+            "0x1b36c97ab9",
+            "0x1b41ce4a2f",
+            "0x1b2109c3ca",
+            "0x1b560ef35c",
+            "0x1bcf07a2e6",
+            "0x1bb8009270",
+            "0x1b266407d3",
+            "0x1b51633745",
+            "0x1bc86a66ff",
+            "0x1bbf6d5669",
+            "0x1b2fd24bf8",
+            "0x1b58d57b6e",
+            "0x1b6e48550d",
+            "0x1b194f659b",
+            "0x1b80463421",
+            "0x1bf74104b7",
+            "0x1b69259114",
+            "0x1b1e22a182",
+            "0x1b872bf038",
+            "0x1bf02cc0ae",
+            "0x1b6093dd3f",
+            "0x1b1794eda9"
+          ]
+        },
+        "statModifierGroups": {
+          "type": "array:TweakDBID",
+          "value": [
+            "0x25929f1422",
+            "0x26af0b8679",
+            "0x1a4c729f54",
+            "0x2365285883",
+            "0x290154c442",
+            "0x2489141b62",
+            "0x24b47432d2",
+            "0x240654eec2",
+            "0x243b34c772",
+            "0x286f37bdce",
+            "0x21d2724fc2",
+            "0x22628d430b",
+            "0x239bddebfc",
+            "0x1c02466032",
+            "0x27530ab63d",
+            "0x22c2d89e65",
+            "0x2b968ff1b0",
+            "0x2387c2eef4",
+            "0x22e88bef45",
+            "0x205eef5300",
+            "0x20a7a3427c",
+            "0x1d3fb09ce6",
+            "0x22030fec07",
+            "0x205b0ad45e"
+          ]
+        },
+        "OnEquip": {
+          "type": "array:TweakDBID",
+          "value": []
+        },
+        "OnAttach": {
+          "type": "array:TweakDBID",
+          "value": [
+            "0x1f519296fb",
+            "0x1f12100330",
+            "0x1e29d5970a",
+            "0x183e8f75da"
+          ]
+        },
+        "tags": {
+          "type": "array:CName",
+          "value": [
+            "Weapon",
+            "RangedWeapon",
+            "inventoryDoubleSlot",
+            "Rifle Sniper",
+            "TechWeapon",
+            "Preload",
+            "Weapon",
+            "Nekomata"
+          ]
+        }
+      }
+    },
+    {
+      "name": "Items.Rare_Nekomata_Breakthrough",
+      "exists": true,
+      "flats": {
+        "previewEffectName": {
+          "type": "CName",
+          "value": "weaponPreview"
+        },
+        "previewEffectTag": {
+          "type": "CName",
+          "value": "ricochet"
+        },
+        "evolution": {
+          "type": "TweakDBID",
+          "value": "0x1481d10fe7"
+        },
+        "statModifiers": {
+          "type": "array:TweakDBID",
+          "value": [
+            "0x1998694a3a",
+            "0x19ef6e7aac",
+            "0x1976672b16",
+            "0x1901601b80",
+            "0x199f048e23",
+            "0x19e803beb5",
+            "0x19710aef0f",
+            "0x19060ddf99",
+            "0x1996b2c208",
+            "0x19e1b5f29e",
+            "0x1a2b545e98",
+            "0x1a5c536e0e",
+            "0x1ac55a3fb4",
+            "0x30dd9f742d",
+            "0x1ab25d0f22",
+            "0x1a2c399a81",
+            "0x1a5b3eaa17",
+            "0x1ac237fbad",
+            "0x1ab530cb3b",
+            "0x1a258fd6aa",
+            "0x1a5288e63c",
+            "0x1a00790d5b",
+            "0x1a777e3dcd",
+            "0x1aee776c77",
+            "0x1a99705ce1",
+            "0x1a0714c942",
+            "0x1a7013f9d4",
+            "0x1ae91aa86e",
+            "0x1a9e1d98f8",
+            "0x1a0ea28569",
+            "0x1a79a5b5ff",
+            "0x1a19623c1a",
+            "0x1a6e650c8c",
+            "0x1af76c5d36",
+            "0x1a806b6da0",
+            "0x1a1e0ff803",
+            "0x1a6908c895",
+            "0x1af001992f",
+            "0x1a8706a9b9",
+            "0x1a17b9b428",
+            "0x1a60be84be",
+            "0x1a5623aadd",
+            "0x1a21249a4b",
+            "0x1ab82dcbf1",
+            "0x1acf2afb67",
+            "0x1a514e6ec4",
+            "0x1a26495e52",
+            "0x1abf400fe8",
+            "0x1ac8473f7e",
+            "0x1a58f822ef",
+            "0x1a2fff1279",
+            "0x1a4f389b9c",
+            "0x1a383fab0a",
+            "0x1aa136fab0",
+            "0x1ad631ca26",
+            "0x1a48555f85",
+            "0x1a3f526f13",
+            "0x1aa65b3ea9",
+            "0x1ad15c0e3f",
+            "0x1a41e313ae",
+            "0x1a36e42338",
+            "0x1a6415c85f",
+            "0x1a1312f8c9",
+            "0x1a8a1ba973",
+            "0x1afd1c99e5",
+            "0x1a63780c46",
+            "0x1a147f3cd0",
+            "0x1a8d766d6a",
+            "0x1afa715dfc",
+            "0x1a6ace406d",
+            "0x1a1dc970fb",
+            "0x1a7d0ef91e",
+            "0x1a0a09c988",
+            "0x1a93009832",
+            "0x1ae407a8a4",
+            "0x1a7a633d07",
+            "0x1a0d640d91",
+            "0x1a946d5c2b",
+            "0x1ae36a6cbd",
+            "0x1a73d5712c",
+            "0x1a04d241ba",
+            "0x1afa96e5d1",
+            "0x1a8d91d547",
+            "0x1a149884fd",
+            "0x1a639fb46b",
+            "0x1afdfb21c8",
+            "0x1a8afc115e",
+            "0x1a13f540e4",
+            "0x1a64f27072",
+            "0x1af44d6de3",
+            "0x1a834a5d75",
+            "0x1ae38dd490",
+            "0x1a948ae406",
+            "0x1a0d83b5bc",
+            "0x1a7a84852a",
+            "0x1ae4e01089",
+            "0x1a93e7201f",
+            "0x1a0aee71a5",
+            "0x1a7de94133",
+            "0x1aed565ca2",
+            "0x1a9a516c34",
+            "0x1b0a249009",
+            "0x1b7d23a09f",
+            "0x1be42af125",
+            "0x1b932dc1b3",
+            "0x1b0d495410",
+            "0x1b7a4e6486",
+            "0x1be347353c",
+            "0x1b944005aa",
+            "0x1b04ff183b",
+            "0x1b73f828ad",
+            "0x1b133fa148",
+            "0x1b643891de",
+            "0x1bfd31c064",
+            "0x1b8a36f0f2",
+            "0x1b14526551",
+            "0x1b635555c7",
+            "0x1bfa5c047d",
+            "0x1b8d5b34eb",
+            "0x1b1de4297a",
+            "0x1b6ae319ec",
+            "0x1b3812f28b",
+            "0x1b4f15c21d",
+            "0x1bd61c93a7",
+            "0x1ba11ba331",
+            "0x1b3f7f3692",
+            "0x1b48780604",
+            "0x1bd17157be",
+            "0x1ba6766728",
+            "0x1b36c97ab9",
+            "0x1b41ce4a2f",
+            "0x1b2109c3ca",
+            "0x1b560ef35c",
+            "0x1bcf07a2e6",
+            "0x1bb8009270",
+            "0x1b266407d3",
+            "0x1b51633745",
+            "0x1bc86a66ff",
+            "0x1bbf6d5669",
+            "0x1b2fd24bf8",
+            "0x1b58d57b6e",
+            "0x1b6e48550d",
+            "0x1b194f659b",
+            "0x1b80463421",
+            "0x1bf74104b7",
+            "0x1b69259114",
+            "0x1b1e22a182",
+            "0x1b872bf038",
+            "0x1bf02cc0ae",
+            "0x1b6093dd3f",
+            "0x1b1794eda9",
+            "0x129357ec62"
+          ]
+        },
+        "statModifierGroups": {
+          "type": "array:TweakDBID",
+          "value": [
+            "0x292e0abd90",
+            "0x2387c2eef4",
+            "0x22e88bef45",
+            "0x205eef5300",
+            "0x20a7a3427c",
+            "0x1d3fb09ce6",
+            "0x2f0a86dcc8",
+            "0x205b0ad45e",
+            "0x1c02466032",
+            "0x27530ab63d",
+            "0x22c2d89e65",
+            "0x21d2724fc2",
+            "0x22628d430b",
+            "0x239bddebfc",
+            "0x2b968ff1b0",
+            "0x25929f1422",
+            "0x26af0b8679"
+          ]
+        },
+        "OnEquip": {
+          "type": "array:TweakDBID",
+          "value": []
+        },
+        "OnAttach": {
+          "type": "array:TweakDBID",
+          "value": [
+            "0x1f519296fb",
+            "0x1f12100330",
+            "0x1e29d5970a",
+            "0x183e8f75da"
+          ]
+        },
+        "tags": {
+          "type": "array:CName",
+          "value": [
+            "Weapon",
+            "RangedWeapon",
+            "inventoryDoubleSlot",
+            "Rifle Sniper",
+            "TechWeapon",
+            "Preload",
+            "Weapon",
+            "Nekomata",
+            "IconicWeapon",
+            "CraftableIconic",
+            "Nekomata_Breakthrough"
+          ]
+        }
+      }
+    },
+    {
+      "name": "Items.Uncommon_Nekomata_Breakthrough",
+      "exists": true,
+      "flats": {
+        "previewEffectName": {
+          "type": "CName",
+          "value": "weaponPreview"
+        },
+        "previewEffectTag": {
+          "type": "CName",
+          "value": "ricochet"
+        },
+        "evolution": {
+          "type": "TweakDBID",
+          "value": "0x1481d10fe7"
+        },
+        "statModifiers": {
+          "type": "array:TweakDBID",
+          "value": [
+            "0x1998694a3a",
+            "0x19ef6e7aac",
+            "0x1976672b16",
+            "0x1901601b80",
+            "0x199f048e23",
+            "0x19e803beb5",
+            "0x19710aef0f",
+            "0x19060ddf99",
+            "0x1996b2c208",
+            "0x19e1b5f29e",
+            "0x1a2b545e98",
+            "0x1a5c536e0e",
+            "0x1ac55a3fb4",
+            "0x30dd9f742d",
+            "0x1ab25d0f22",
+            "0x1a2c399a81",
+            "0x1a5b3eaa17",
+            "0x1ac237fbad",
+            "0x1ab530cb3b",
+            "0x1a258fd6aa",
+            "0x1a5288e63c",
+            "0x1a00790d5b",
+            "0x1a777e3dcd",
+            "0x1aee776c77",
+            "0x1a99705ce1",
+            "0x1a0714c942",
+            "0x1a7013f9d4",
+            "0x1ae91aa86e",
+            "0x1a9e1d98f8",
+            "0x1a0ea28569",
+            "0x1a79a5b5ff",
+            "0x1a19623c1a",
+            "0x1a6e650c8c",
+            "0x1af76c5d36",
+            "0x1a806b6da0",
+            "0x1a1e0ff803",
+            "0x1a6908c895",
+            "0x1af001992f",
+            "0x1a8706a9b9",
+            "0x1a17b9b428",
+            "0x1a60be84be",
+            "0x1a5623aadd",
+            "0x1a21249a4b",
+            "0x1ab82dcbf1",
+            "0x1acf2afb67",
+            "0x1a514e6ec4",
+            "0x1a26495e52",
+            "0x1abf400fe8",
+            "0x1ac8473f7e",
+            "0x1a58f822ef",
+            "0x1a2fff1279",
+            "0x1a4f389b9c",
+            "0x1a383fab0a",
+            "0x1aa136fab0",
+            "0x1ad631ca26",
+            "0x1a48555f85",
+            "0x1a3f526f13",
+            "0x1aa65b3ea9",
+            "0x1ad15c0e3f",
+            "0x1a41e313ae",
+            "0x1a36e42338",
+            "0x1a6415c85f",
+            "0x1a1312f8c9",
+            "0x1a8a1ba973",
+            "0x1afd1c99e5",
+            "0x1a63780c46",
+            "0x1a147f3cd0",
+            "0x1a8d766d6a",
+            "0x1afa715dfc",
+            "0x1a6ace406d",
+            "0x1a1dc970fb",
+            "0x1a7d0ef91e",
+            "0x1a0a09c988",
+            "0x1a93009832",
+            "0x1ae407a8a4",
+            "0x1a7a633d07",
+            "0x1a0d640d91",
+            "0x1a946d5c2b",
+            "0x1ae36a6cbd",
+            "0x1a73d5712c",
+            "0x1a04d241ba",
+            "0x1afa96e5d1",
+            "0x1a8d91d547",
+            "0x1a149884fd",
+            "0x1a639fb46b",
+            "0x1afdfb21c8",
+            "0x1a8afc115e",
+            "0x1a13f540e4",
+            "0x1a64f27072",
+            "0x1af44d6de3",
+            "0x1a834a5d75",
+            "0x1ae38dd490",
+            "0x1a948ae406",
+            "0x1a0d83b5bc",
+            "0x1a7a84852a",
+            "0x1ae4e01089",
+            "0x1a93e7201f",
+            "0x1a0aee71a5",
+            "0x1a7de94133",
+            "0x1aed565ca2",
+            "0x1a9a516c34",
+            "0x1b0a249009",
+            "0x1b7d23a09f",
+            "0x1be42af125",
+            "0x1b932dc1b3",
+            "0x1b0d495410",
+            "0x1b7a4e6486",
+            "0x1be347353c",
+            "0x1b944005aa",
+            "0x1b04ff183b",
+            "0x1b73f828ad",
+            "0x1b133fa148",
+            "0x1b643891de",
+            "0x1bfd31c064",
+            "0x1b8a36f0f2",
+            "0x1b14526551",
+            "0x1b635555c7",
+            "0x1bfa5c047d",
+            "0x1b8d5b34eb",
+            "0x1b1de4297a",
+            "0x1b6ae319ec",
+            "0x1b3812f28b",
+            "0x1b4f15c21d",
+            "0x1bd61c93a7",
+            "0x1ba11ba331",
+            "0x1b3f7f3692",
+            "0x1b48780604",
+            "0x1bd17157be",
+            "0x1ba6766728",
+            "0x1b36c97ab9",
+            "0x1b41ce4a2f",
+            "0x1b2109c3ca",
+            "0x1b560ef35c",
+            "0x1bcf07a2e6",
+            "0x1bb8009270",
+            "0x1b266407d3",
+            "0x1b51633745",
+            "0x1bc86a66ff",
+            "0x1bbf6d5669",
+            "0x1b2fd24bf8",
+            "0x1b58d57b6e",
+            "0x1b6e48550d",
+            "0x1b194f659b",
+            "0x1b80463421",
+            "0x1bf74104b7",
+            "0x1b69259114",
+            "0x1b1e22a182",
+            "0x1b872bf038",
+            "0x1bf02cc0ae",
+            "0x1b6093dd3f",
+            "0x1b1794eda9",
+            "0x129357ec62"
+          ]
+        },
+        "statModifierGroups": {
+          "type": "array:TweakDBID",
+          "value": [
+            "0x292e0abd90",
+            "0x2387c2eef4",
+            "0x22e88bef45",
+            "0x205eef5300",
+            "0x20a7a3427c",
+            "0x1d3fb09ce6",
+            "0x2f0a86dcc8",
+            "0x205b0ad45e",
+            "0x1c02466032",
+            "0x27530ab63d",
+            "0x22c2d89e65",
+            "0x21d2724fc2",
+            "0x22628d430b",
+            "0x239bddebfc",
+            "0x2b968ff1b0",
+            "0x25929f1422",
+            "0x26af0b8679"
+          ]
+        },
+        "OnEquip": {
+          "type": "array:TweakDBID",
+          "value": []
+        },
+        "OnAttach": {
+          "type": "array:TweakDBID",
+          "value": [
+            "0x1f519296fb",
+            "0x1f12100330",
+            "0x1e29d5970a",
+            "0x183e8f75da"
+          ]
+        },
+        "tags": {
+          "type": "array:CName",
+          "value": [
+            "Weapon",
+            "RangedWeapon",
+            "inventoryDoubleSlot",
+            "Rifle Sniper",
+            "TechWeapon",
+            "Preload",
+            "Weapon",
+            "Nekomata",
+            "IconicWeapon",
+            "CraftableIconic",
+            "Nekomata_Breakthrough"
+          ]
+        }
+      }
+    }
+  ]
+}

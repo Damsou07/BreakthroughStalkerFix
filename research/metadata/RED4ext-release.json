@@ -1,0 +1,7 @@
+{
+  "tag_name": "v1.31.0",
+  "prerelease": false,
+  "published_at": "2026-10-24T17:23:07Z",
+  "html_url": "https://github.com/wopss/RED4ext/releases/tag/v1.31.0",
+  "body": "### Added\r\n\r\n- Support for using the in-game mod menu together with [redscript](https://github.com/jac3km4/redscript) mods, by @alphanin9 (#154).\r\n\r\n### Changed\r\n\r\n- The minimum supported game version is now patch 2.5, by @alphanin9 (#154).\n\n---\n\n| Filename                                  | SHA256 |\n| ----------------------------------------- | ------------------------------------- |\n| `red4ext-1.31.0.zip`         | `B9AE4351F547F90AF58DFBF7445D45C55CD5BA24FBEE27FB16FB5D91E9DF621E` |\n| `red4ext-symbols-1.31.0.zip` | `3125ECFB9F81D6AD3D2DE7E066E2419BF022034578D6673D49B367D0F624D598` |"
+}

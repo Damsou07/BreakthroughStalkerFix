@@ -1,0 +1,7 @@
+{
+  "tag_name": "v1.38.0",
+  "prerelease": false,
+  "published_at": "2026-10-22T12:57:17Z",
+  "html_url": "https://github.com/maximegmd/CyberEngineTweaks/releases/tag/v1.38.0",
+  "body": "## Cyber Engine Tweaks 1.38.0\r\n\r\n### Game support\r\n- Supports Cyberpunk 2077 patch 2.5 (game version 3.0.88.46235). Earlier patches are no longer supported.\r\n\r\n### New\r\n- ImGui docking: CET and mod windows can be docked to each other and to the edges of the screen. ImGui can now change the mouse cursor (resize, text input). (#1046, @notaspirit)\r\n- `ImGuiWindowFlags.NoDocking` is available to Lua mods. (#1046, @notaspirit)\r\n\r\n### Fixes\r\n- Fixed a deadlock when a mod registers a hook at runtime. (#1063, @Yiin)\r\n- Fixed a crash when a mod tries to construct an abstract class. It now returns `nil`. (#1055, @budjb)\r\n- ImGui only takes mouse and keyboard input while the overlay is open. (#1046, @notaspirit)\r\n\r\n### Under the hood\r\n- Updated to the latest RED4ext.SDK, with the 2.5 changes to function, script stack frame and engine layouts.\r\n- Updated TiltedCore to 0.2.9, with mimalloc pinned to 2.2.4. Building CET now requires xmake 3.1."
+}

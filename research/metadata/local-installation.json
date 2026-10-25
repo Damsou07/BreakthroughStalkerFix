@@ -1,0 +1,30 @@
+{
+  "GamePath": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Cyberpunk 2077",
+  "InspectedOn": "2026-10-25",
+  "ProductVersion": "2.5",
+  "FileVersionText": "3.0.5813403",
+  "FileVersionParts": "3.0.88.46235",
+  "SteamBuildId": "26161058",
+  "Files": [
+    {
+      "RelativePath": "bin\\x64\\Cyberpunk2077.exe",
+      "Length": 66704848,
+      "SHA256": "D36E74C47592E9C656AE250078CB40B2BE63C782AF5BFBEFF2280D43E653FAB4"
+    },
+    {
+      "RelativePath": "r6\\cache\\final.redscripts",
+      "Length": 19280419,
+      "SHA256": "B78043064AE90FB80861B0D885D1C8DBCD22070F1DB71F20664D19F2D83C4AAC"
+    },
+    {
+      "RelativePath": "r6\\cache\\tweakdb.bin",
+      "Length": 44143434,
+      "SHA256": "0D48B6ACC1A40430AFBFF77EF41B00B7F06759C297425A6E6767F56446C6075D"
+    },
+    {
+      "RelativePath": "r6\\cache\\tweakdb_ep1.bin",
+      "Length": 50350405,
+      "SHA256": "5BA1B2B79486F91A8BC5E789D641A08963FC5024E54C562759376176E9FE7FD1"
+    }
+  ]
+}

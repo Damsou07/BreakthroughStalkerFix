@@ -1,0 +1,11 @@
+{
+  "Date": "2026-10-25",
+  "NodeTestsPassed": 17,
+  "NodeTestsFailed": 0,
+  "LuaRuntime": "Fengari 0.1.5, simulation CET uniquement",
+  "InstallerTest": "Réussi dans .test-output ; aucune installation réelle",
+  "PowerShellSyntax": "Trois scripts analysés sans erreur",
+  "LocalReferenceHashes": "Quatre empreintes identiques",
+  "GameTest": "Non exécuté",
+  "InstalledInGame": false
+}

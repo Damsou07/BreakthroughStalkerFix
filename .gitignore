@@ -1,0 +1,6 @@
+# Données extraites du jeu et outils tiers : conserver localement, ne pas distribuer.
+research/local-scripts/
+research/tools/
+research/reference/
+node_modules/
+.test-output/

@@ -1,0 +1,7 @@
+{
+  "tag_name": "v1.11.5",
+  "prerelease": false,
+  "published_at": "2026-10-19T17:24:02Z",
+  "html_url": "https://github.com/psiberx/cp2077-tweak-xl/releases/tag/v1.11.5",
+  "body": "- Added PDB to GitHub release\r\n- Improved hash collision diagnostics"
+}

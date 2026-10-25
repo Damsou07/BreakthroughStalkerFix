@@ -1,0 +1,12 @@
+{
+  "name": "breakthrough-stalker-investigation",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Vérifications hors jeu du candidat Breakthrough/Stalker",
+  "scripts": {
+    "test": "node --test tests/*.test.mjs"
+  },
+  "devDependencies": {
+    "fengari": "0.1.5"
+  }
+}
