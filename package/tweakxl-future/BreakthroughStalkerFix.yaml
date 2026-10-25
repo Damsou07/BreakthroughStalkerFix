@@ -1,5 +1,5 @@
 # Alternative inactive : attendre une version stable TweakXL compatible avec le jeu 2.5.
 # Ne pas installer en même temps que le candidat CET.
 # Seul l'aperçu change ; aucun paramètre de dégâts ou de pénétration.
-Items.Preset_Nekomata_Breakthrough:
+Items.Uncommon_Nekomata_Breakthrough:
   previewEffectTag: pierce

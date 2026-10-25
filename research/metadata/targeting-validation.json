@@ -1,0 +1,15 @@
+{
+  "Date": "2026-10-25",
+  "Revision": "Ciblage Uncommon",
+  "Target": "Items.Uncommon_Nekomata_Breakthrough",
+  "LocalDatabasesVerified": [
+    "tweakdb.bin",
+    "tweakdb_ep1.bin"
+  ],
+  "TestsPassed": 18,
+  "TestsFailed": 0,
+  "Deployed": false,
+  "InstalledFileSHA256": "2161C7ACB338F1C93CBEF2A6DBB9BE152133746EB168692964CA009C3F86FC2C",
+  "InstalledFileMatchesPreviousReceipt": true,
+  "GameValidation": "En attente : Uncommon pierce"
+}

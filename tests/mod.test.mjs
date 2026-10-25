@@ -5,11 +5,14 @@ import {lua, lauxlib, lualib, to_luastring, to_jsstring} from 'fengari';
 
 const mod = fs.readFileSync('package/cet/BreakthroughStalkerFix/init.lua','utf8');
 const setup = `
-local target = "Items.Preset_Nekomata_Breakthrough"
+local target = "Items.Uncommon_Nekomata_Breakthrough"
 local donor = "Items.Preset_Omaha_Suzie"
+local preset = "Items.Preset_Nekomata_Breakthrough"
 local flat = target .. ".previewEffectTag"
 local events, writes, logs = {}, {}, {}
 local values = {
+  [preset .. ".previewEffectTag"] = {value="ricochet"},
+  [preset .. ".previewEffectName"] = {value="weaponPreview"},
   [flat] = {value="ricochet"},
   [target .. ".previewEffectName"] = {value="weaponPreview"},
   [donor .. ".previewEffectTag"] = {value="pierce"},
@@ -24,7 +27,10 @@ function TweakDB:GetFlat(name) return values[name] end
 function TweakDB:GetRecord(name)
   return {PreviewEffectTag=function() return values[name .. ".previewEffectTag"] end}
 end
-function TweakDB:Update(name) return true end
+function TweakDB:Update(name)
+  assert(name == target, "Mise à jour du mauvais enregistrement")
+  return true
+end
 function TweakDB:SetFlat(name,value)
   assert(name == flat, "Écriture hors du périmètre visuel")
   values[name] = value
@@ -43,6 +49,18 @@ events.onInit(); assert(values[flat].value == "pierce"); assert(#writes == 1)
 events.onInit(); assert(#writes == 1)
 events.onShutdown(); assert(values[flat].value == "ricochet"); assert(#writes == 2)
 events.onShutdown(); assert(#writes == 2)
+`));
+test('ciblage réel : Uncommon corrigé et restauré, ancien preset et Lizzie inchangés', () => execute(`
+events.onInit()
+assert(writes[1][1] == "Items.Uncommon_Nekomata_Breakthrough.previewEffectTag")
+assert(values[flat].value == "pierce")
+assert(values[preset .. ".previewEffectTag"].value == "ricochet")
+assert(values[donor .. ".previewEffectTag"].value == "pierce")
+assert(string.find(logs[#logs], "Items.Uncommon_Nekomata_Breakthrough", 1, true))
+events.onShutdown()
+assert(#writes == 2 and writes[2][1] == flat and writes[2][2] == "ricochet")
+assert(values[preset .. ".previewEffectTag"].value == "ricochet")
+assert(values[donor .. ".previewEffectTag"].value == "pierce")
 `));
 for (const [name, alteration] of [
   ['CET non étudié','version="v1.37.1"'],

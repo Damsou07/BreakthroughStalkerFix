@@ -1,5 +1,15 @@
 # Investigation du 25 octobre 2026
 
+## Révision après le premier relevé en jeu
+
+L'utilisateur a observé `Items.Uncommon_Nekomata_Breakthrough ricochet`. Une nouvelle lecture directe des deux bases locales confirme ce record, `weaponPreview` et `ricochet` : voir `research/metadata/targeting-verification.json`.
+
+Le candidat cible désormais ce seul record au lieu du preset. Préconditions, journaux et restauration sont conservés ; le journal de succès précise la cible. Un test vérifie que l'ancien preset et Lizzie restent inchangés. Le YAML inactif est aligné. Aucun déploiement effectué pendant cette révision.
+
+Le prochain critère est uniquement `Items.Uncommon_Nekomata_Breakthrough pierce` avec l'arme équipée. Voir [la réinstallation](REINSTALL-TARGETING.md). Tester la détection ensuite seulement.
+
+**Le reste de ce rapport conserve l'investigation initiale : ses mentions de ciblage du preset décrivent le premier candidat, remplacé par cette révision.**
+
 ## Conclusion et niveau de preuve
 
 **Cause statique suffisamment établie pour un candidat ciblé : Breakthrough emprunte la branche de prévisualisation des ricochets au lieu de celle de la pénétration. L'efficacité du candidat n'est pas encore démontrée en jeu.**

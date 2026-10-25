@@ -1,6 +1,7 @@
 -- Candidat 0.1.0 : Cyberpunk 2077 2.5, CET 1.38.0 ; validation en jeu requise.
+-- Révision de ciblage : enregistrement observé sur l'arme équipée par l'utilisateur.
 -- Une seule propriété visuelle est modifiée ; aucun paramètre balistique.
-local targetRecord = "Items.Preset_Nekomata_Breakthrough"
+local targetRecord = "Items.Uncommon_Nekomata_Breakthrough"
 local donorRecord = "Items.Preset_Omaha_Suzie"
 local targetFlat = targetRecord .. ".previewEffectTag"
 local originalValue = nil
@@ -64,7 +65,7 @@ registerForEvent("onInit", function()
         restore()
         return
     end
-    report("Candidat actif : previewEffectTag ricochet -> pierce. Test en jeu requis.")
+    report("Candidat actif : " .. targetRecord .. " previewEffectTag ricochet -> pierce. Test en jeu requis.")
 end)
 
 registerForEvent("onShutdown", restore)

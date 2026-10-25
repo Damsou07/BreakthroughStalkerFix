@@ -1,6 +1,8 @@
 # Protocole manuel A/B/A
 
-**État actuel : non exécuté. Aucun résultat en jeu n'est acquis.**
+**Premier relevé utilisateur : `Items.Uncommon_Nekomata_Breakthrough ricochet`. Le test de détection A/B/A reste à effectuer.**
+
+Effectuer d'abord [la réinstallation et le contrôle du ciblage](REINSTALL-TARGETING.md). Attendre `Items.Uncommon_Nekomata_Breakthrough pierce` avant de tester la détection Stalker.
 
 ## Préparation
 
@@ -19,7 +21,7 @@ Avec CET, console ouverte et arme sortie, cette commande en lecture seule permet
 local p = Game.GetPlayer(); local w = p and Game.GetTransactionSystem():GetItemInSlot(p, TweakDBID.new("AttachmentSlots.WeaponRight")); if w then local r = w:GetWeaponRecord(); print(r:GetID().value, r:PreviewEffectName().value, r:PreviewEffectTag().value) else print("Sortir une arme dans une partie chargée.") end
 ```
 
-Le candidat ne couvre que `Items.Preset_Nekomata_Breakthrough`. Si un autre ID apparaît, transmettre cette sortie et arrêter l'installation du candidat actuel. Il ne faut pas substituer un ID au hasard. Si `.value` ne résout pas le nom, conserver la représentation brute via `tostring(r:GetID())`.
+Le candidat ne couvre que `Items.Uncommon_Nekomata_Breakthrough`. Si un autre ID apparaît, transmettre cette sortie et arrêter l'installation du candidat actuel. Il ne faut pas substituer un ID au hasard. Si `.value` ne résout pas le nom, conserver la représentation brute via `tostring(r:GetID())`.
 
 ## B — candidat CET
 

@@ -1,0 +1,28 @@
+[
+  {
+    "file": "tweakdb.bin",
+    "record": "Items.Uncommon_Nekomata_Breakthrough",
+    "exists": true,
+    "previewEffectName": {
+      "type": "CName",
+      "value": "weaponPreview"
+    },
+    "previewEffectTag": {
+      "type": "CName",
+      "value": "ricochet"
+    }
+  },
+  {
+    "file": "tweakdb_ep1.bin",
+    "record": "Items.Uncommon_Nekomata_Breakthrough",
+    "exists": true,
+    "previewEffectName": {
+      "type": "CName",
+      "value": "weaponPreview"
+    },
+    "previewEffectTag": {
+      "type": "CName",
+      "value": "ricochet"
+    }
+  }
+]
